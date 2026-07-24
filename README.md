@@ -52,9 +52,9 @@ Shu bilan tugadi. Birinchi ishga tushirishda konteyner avtomatik ravishda:
 migratsiyalarni bajaradi, **barcha 3228 yozuvni yuklaydi**, superuser
 yaratadi, va statik fayllarni yig'adi.
 
-- API: http://localhost:8000/api/v1/
-- Swagger hujjatlar: http://localhost:8000/api/docs/
-- Admin panel: http://localhost:8000/admin/ (`.env`dagi DJANGO_SUPERUSER_* bilan kiring)
+- API: http://localhost:8080/api/v1/
+- Swagger hujjatlar: http://localhost:8080/api/docs/
+- Admin panel: http://localhost:8080/admin/ (`.env`dagi DJANGO_SUPERUSER_* bilan kiring)
 
 ## Docker'siz lokal ishga tushirish (SQLite bilan)
 

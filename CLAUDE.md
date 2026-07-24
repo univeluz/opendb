@@ -36,10 +36,10 @@ To'liq kontekst uchun (avval shularni o'qi):
    gunicorn. Shu ketma-ketlikning qaysi bosqichida xato chiqishini top.
 3. Xato chiqsa tuzat (odatda kichik -- yuqoridagi ro'yxatga qara).
 4. Ishga tushgach tekshir:
-   - `curl localhost:8000/api/v1/viloyatlar/UZ-TK/`
-   - `curl localhost:8000/api/v1/namoz-vaqtlari/UZ-TK/`
-   - `localhost:8000/admin/` (.env'dagi DJANGO_SUPERUSER_* bilan)
-   - `localhost:8000/api/docs/` (Swagger)
+   - `curl localhost:8080/api/v1/viloyatlar/UZ-TK/`
+   - `curl localhost:8080/api/v1/namoz-vaqtlari/UZ-TK/`
+   - `localhost:8080/admin/` (.env'dagi DJANGO_SUPERUSER_* bilan)
+   - `localhost:8080/api/docs/` (Swagger)
 5. `git status` va `git remote -v` bilan holatni ko'r (remote allaqachon
    ulangan bo'lishi kerak, foydalanuvchi tasdiqladi). Keyin `git add`,
    ma'noli commit xabari bilan commit, va push qil.
