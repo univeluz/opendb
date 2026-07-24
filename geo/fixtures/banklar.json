@@ -1,0 +1,457 @@
+[
+  {
+    "model": "geo.bank",
+    "pk": 1,
+    "fields": {
+      "slug": "ozbekiston-respublikasi-tashqi-iqtisodiy-faoliyat-milliy-banki",
+      "name_uz": "O'zbekiston Respublikasi Tashqi iqtisodiy faoliyat milliy banki",
+      "turi": "davlat",
+      "viloyat": 1,
+      "address": "100084, Toshkent shahri, Yunusobod tumani, Amir Temur ko'chasi, 101",
+      "license_number": "22",
+      "website": "https://www.nbu.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 2,
+    "fields": {
+      "slug": "ozbekiston-respublikasi-aksiyadorlik-tijorat-xalqbanki",
+      "name_uz": "O'zbekiston Respublikasi aksiyadorlik tijorat Xalqbanki",
+      "turi": "davlat",
+      "viloyat": 1,
+      "address": "100096, Toshkent shahri, Chilonzor tumani, Qatortol ko'chasi, 46-uy",
+      "license_number": "25",
+      "website": "https://www.xb.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 3,
+    "fields": {
+      "slug": "asakabank",
+      "name_uz": "Asakabank",
+      "turi": "davlat",
+      "viloyat": 1,
+      "address": "100027, Toshkent shahri, Shayxontohur tumani, Yangi Toshkent tor ko'chasi, 1-uy",
+      "license_number": "53",
+      "website": "https://www.asakabank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 4,
+    "fields": {
+      "slug": "ozbekiston-sanoat-qurilish-banki",
+      "name_uz": "O'zbekiston sanoat-qurilish banki",
+      "turi": "davlat",
+      "viloyat": 1,
+      "address": "100000, Toshkent shahri, Yunusobod tumani, Shahrisabz ko'chasi, 3-uy",
+      "license_number": "17",
+      "website": "https://www.uzpsb.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 5,
+    "fields": {
+      "slug": "agrobank",
+      "name_uz": "Agrobank",
+      "turi": "davlat",
+      "viloyat": 1,
+      "address": "100011, Toshkent shahri, Shayxontoxur tumani, Botir Zokirov ko'chasi, 2A",
+      "license_number": "78",
+      "website": "https://www.agrobank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 6,
+    "fields": {
+      "slug": "biznesni-rivojlantirish-banki",
+      "name_uz": "Biznesni rivojlantirish banki",
+      "turi": "davlat",
+      "viloyat": 1,
+      "address": "100011, Toshkent shahri, Shayxontohur tumani, Navoiy ko'chasi, 18A-uy",
+      "license_number": "93",
+      "website": "https://www.brb.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 7,
+    "fields": {
+      "slug": "turonbank",
+      "name_uz": "Turonbank",
+      "turi": "davlat",
+      "viloyat": 1,
+      "address": "100011, Toshkent shahri, Shayxontoxur tumani, Abay ko'chasi, 4a",
+      "license_number": "8",
+      "website": "https://www.turonbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 8,
+    "fields": {
+      "slug": "mikrokreditbank",
+      "name_uz": "Mikrokreditbank",
+      "turi": "davlat",
+      "viloyat": 1,
+      "address": "100047, Toshkent shahri, Mirobod tumani, Amir Temur Shox ko'chasi, 4-uy",
+      "license_number": "37",
+      "website": "https://www.mikrokreditbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 9,
+    "fields": {
+      "slug": "aloqabank",
+      "name_uz": "Aloqabank",
+      "turi": "davlat",
+      "viloyat": 1,
+      "address": "100164, Toshkent shahri, Mirzo Ulug'bek tumani, Tepamasjid ko'chasi, 4-uy",
+      "license_number": "48",
+      "website": "https://www.aloqabank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 10,
+    "fields": {
+      "slug": "poytaxt-bank",
+      "name_uz": "Poytaxt bank",
+      "turi": "aksiyadorlik",
+      "viloyat": 1,
+      "address": "100063, Toshkent shahri, Chilonzor tumani, Islom Karimov ko'chasi, 55 uy",
+      "license_number": "84",
+      "website": "https://www.poytaxtbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 11,
+    "fields": {
+      "slug": "madad-invest-bank",
+      "name_uz": "Madad Invest Bank",
+      "turi": "aksiyadorlik",
+      "viloyat": 1,
+      "address": "100077, Toshkent shahar, Mirzo Ulug'bek tumani, Sayram 6-tor ko'chasi, 9-uy",
+      "license_number": "82",
+      "website": "https://www.madadinvestbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 12,
+    "fields": {
+      "slug": "invest-finance-bank",
+      "name_uz": "Invest Finance Bank",
+      "turi": "aksiyadorlik",
+      "viloyat": 1,
+      "address": "100029, Toshkent shahri, Mirobod tumani, T. Shevchenko ko'chasi, 1-uy",
+      "license_number": "75",
+      "website": "https://www.infinbank.com"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 13,
+    "fields": {
+      "slug": "avo-bank",
+      "name_uz": "AVO BANK",
+      "turi": "aksiyadorlik",
+      "viloyat": 1,
+      "address": "100060, Toshkent shahri, Mirobod tumani, Nukus ko'chasi, 29A",
+      "license_number": "83",
+      "website": "https://avobank.uz/"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 14,
+    "fields": {
+      "slug": "tbc-bank",
+      "name_uz": "TBC Bank",
+      "turi": "aksiyadorlik",
+      "viloyat": 1,
+      "address": "100015, Toshkent shahri, Mirobod tumani, Fidokor ko'chasi, 10V-uy",
+      "license_number": "86",
+      "website": "https://www.tbcbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 15,
+    "fields": {
+      "slug": "anor-bank",
+      "name_uz": "ANOR BANK",
+      "turi": "aksiyadorlik",
+      "viloyat": 1,
+      "address": "100047, Toshkent shahar, Yashnobod tumani, Shaxrisabz ko'chasi, 85-uy",
+      "license_number": "87",
+      "website": "https://www.anorbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 16,
+    "fields": {
+      "slug": "tayanch-mikromoliya-banki",
+      "name_uz": "Tayanch mikromoliya banki",
+      "turi": "aksiyadorlik",
+      "viloyat": 1,
+      "address": "100043, Toshkent shahri, Chilonzor tumani, Muqumiy ko'chasi, 178a-uy",
+      "license_number": "96",
+      "website": "https://www.tayanchbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 17,
+    "fields": {
+      "slug": "asia-alliance-bank",
+      "name_uz": "ASIA ALLIANCE BANK",
+      "turi": "xususiy",
+      "viloyat": 1,
+      "address": "100047, Toshkent shahri, Yashnobod tumani, Maxtumquli ko'chasi, 2A-uy",
+      "license_number": "79",
+      "website": "https://www.aab.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 18,
+    "fields": {
+      "slug": "ipak-yoli",
+      "name_uz": "Ipak Yo'li",
+      "turi": "xususiy",
+      "viloyat": 1,
+      "address": "100017, Toshkent shahri, Yunusobod tumani, Abdulla Qodiriy ko'chasi, 2-uy",
+      "license_number": "10",
+      "website": "https://www.ipakyulibank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 19,
+    "fields": {
+      "slug": "kapitalbank",
+      "name_uz": "Kapitalbank",
+      "turi": "xususiy",
+      "viloyat": 1,
+      "address": "100047, Toshkent shahri, Yunusobod tumani, Sayilgox ko'chasi, 7",
+      "license_number": "69",
+      "website": "https://www.kapitalbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 20,
+    "fields": {
+      "slug": "universal-bank",
+      "name_uz": "Universal bank",
+      "turi": "xususiy",
+      "viloyat": 5,
+      "address": "150700, Farg'ona viloyati, Qo'qon shahri, Shoxruxobod ko'chasi",
+      "license_number": "68",
+      "website": "https://www.universalbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 21,
+    "fields": {
+      "slug": "trastbank",
+      "name_uz": "Trastbank",
+      "turi": "xususiy",
+      "viloyat": 1,
+      "address": "100011, Toshkent shahri, Shayxontoxur tumani, Navoiy ko'chasi, 7-uy",
+      "license_number": "44",
+      "website": "https://www.trastbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 22,
+    "fields": {
+      "slug": "davr-bank",
+      "name_uz": "Davr-bank",
+      "turi": "xususiy",
+      "viloyat": 1,
+      "address": "100021, Toshkent shahri, Shayxontoxur tumani, Navoiy-Zarqaynar ko'chasi, Blok \"A\"",
+      "license_number": "71",
+      "website": "https://www.davrbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 23,
+    "fields": {
+      "slug": "octobank",
+      "name_uz": "Octobank",
+      "turi": "xususiy",
+      "viloyat": 1,
+      "address": "100021, Toshkent shahri, Shayxontoxur tumani, Furqat ko'chasi, 2-uy",
+      "license_number": "70",
+      "website": "https://www.octobank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 24,
+    "fields": {
+      "slug": "orient-finans",
+      "name_uz": "Orient Finans",
+      "turi": "xususiy",
+      "viloyat": 1,
+      "address": "100029, Toshkent shahri, Mirzo Ulug'bek tumani, Osiyo ko'chasi, 5-uy",
+      "license_number": "81",
+      "website": "https://www.ofb.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 25,
+    "fields": {
+      "slug": "garant-bank",
+      "name_uz": "Garant bank",
+      "turi": "xususiy",
+      "viloyat": 1,
+      "address": "100060, Toshkent shahri, Mirobod tumani, Sayid Baraka ko'chasi, 78-uy",
+      "license_number": "42",
+      "website": "https://www.garantbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 26,
+    "fields": {
+      "slug": "hamkorbank",
+      "name_uz": "Hamkorbank",
+      "turi": "xususiy",
+      "viloyat": 3,
+      "address": "170119, Andijon shahri, Bobur shoh ko'chasi, 85-uy",
+      "license_number": "64",
+      "website": "https://www.hamkorbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 27,
+    "fields": {
+      "slug": "open-bank",
+      "name_uz": "Open bank",
+      "turi": "xususiy",
+      "viloyat": 1,
+      "address": "100000, Toshkent shahar, Yunusobod tumani, Shaxrisabz ko'chasi, 2-uy",
+      "license_number": "89",
+      "website": "https://www.openbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 28,
+    "fields": {
+      "slug": "uzum-bank",
+      "name_uz": "UZUM BANK",
+      "turi": "xususiy",
+      "viloyat": 1,
+      "address": "100015, Toshkent shahri, Mirobod tumani, Fidokor ko'chasi, 30-uy",
+      "license_number": "88",
+      "website": "https://www.uzumbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 29,
+    "fields": {
+      "slug": "apex-bank",
+      "name_uz": "APEX BANK",
+      "turi": "xususiy",
+      "viloyat": 1,
+      "address": "100060, Toshkent shahar, Mirobod tumani, Sodiq Azimov ko'chasi, 77-uy",
+      "license_number": "90",
+      "website": "https://www.apexbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 30,
+    "fields": {
+      "slug": "hayot-bank",
+      "name_uz": "HAYOT BANK",
+      "turi": "xususiy",
+      "viloyat": 1,
+      "address": "100007, Toshkent shahar, Yashnobod tumani, Parkent ko'chasi, 49-uy",
+      "license_number": "91",
+      "website": "https://www.hayotbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 31,
+    "fields": {
+      "slug": "tenge-bank",
+      "name_uz": "Tenge Bank",
+      "turi": "xorijiy",
+      "viloyat": 1,
+      "address": "100027, Toshkent shahri, Shayxontohur tumani, Islom Karimov ko'chasi, 1, 1b-uy",
+      "license_number": "85",
+      "website": "https://www.tengebank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 32,
+    "fields": {
+      "slug": "kdb-bank-ozbekiston",
+      "name_uz": "KDB Bank O'zbekiston",
+      "turi": "xorijiy",
+      "viloyat": 1,
+      "address": "100047, Toshkent shahri, Mirobod tumani, Buxoro ko'chasi, 3-uy",
+      "license_number": "5",
+      "website": "https://www.kdb.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 33,
+    "fields": {
+      "slug": "ziraat-bank-uzbekistan",
+      "name_uz": "Ziraat Bank Uzbekistan",
+      "turi": "xorijiy",
+      "viloyat": 1,
+      "address": "100043, Toshkent shahri, Chilonzor tumani, Bunyodkor ko'chasi, 15/ABV",
+      "license_number": "1",
+      "website": "https://www.ziraatbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 34,
+    "fields": {
+      "slug": "soderot-bank",
+      "name_uz": "SODEROT Bank",
+      "turi": "xorijiy",
+      "viloyat": 1,
+      "address": "100060, Toshkent shahri, Mirobod tumani, Fidokor ko'chasi, 10-uy",
+      "license_number": "95",
+      "website": "https://www.saderatbank.uz"
+    }
+  },
+  {
+    "model": "geo.bank",
+    "pk": 35,
+    "fields": {
+      "slug": "ipoteka-bank",
+      "name_uz": "Ipoteka-bank",
+      "turi": "xorijiy",
+      "viloyat": 1,
+      "address": "100000, Toshkent shahri, Mirzo Ulug'bek tumani, Shahrisabz ko'chasi, 30-uy",
+      "license_number": "74",
+      "website": "https://www.ipotekabank.uz"
+    }
+  }
+]

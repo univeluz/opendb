@@ -1,0 +1,206 @@
+[
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 1,
+    "fields": {
+      "bayram": 1,
+      "yil": 2026,
+      "sana": "2026-01-01",
+      "sabab": "asosiy",
+      "taxminiymi": false,
+      "izoh": ""
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 2,
+    "fields": {
+      "bayram": 1,
+      "yil": 2026,
+      "sana": "2026-01-02",
+      "sabab": "qoshimcha",
+      "taxminiymi": false,
+      "izoh": "PF-257: barcha xodimlar uchun qo'shimcha dam olish kuni"
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 3,
+    "fields": {
+      "bayram": 2,
+      "yil": 2026,
+      "sana": "2026-03-08",
+      "sabab": "asosiy",
+      "taxminiymi": false,
+      "izoh": "Yakshanbaga to'g'ri keladi"
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 4,
+    "fields": {
+      "bayram": 2,
+      "yil": 2026,
+      "sana": "2026-03-09",
+      "sabab": "kochirilgan",
+      "taxminiymi": false,
+      "izoh": "MK 208-modda: yakshanbadan ko'chirilgan dam olish"
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 5,
+    "fields": {
+      "bayram": 8,
+      "yil": 2026,
+      "sana": "2026-03-20",
+      "sabab": "asosiy",
+      "taxminiymi": true,
+      "izoh": "Aniq sana O'zbekiston musulmonlari idorasi tomonidan e'lon qilinadi"
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 6,
+    "fields": {
+      "bayram": 3,
+      "yil": 2026,
+      "sana": "2026-03-21",
+      "sabab": "asosiy",
+      "taxminiymi": false,
+      "izoh": "Shanbaga to'g'ri keladi"
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 7,
+    "fields": {
+      "bayram": 3,
+      "yil": 2026,
+      "sana": "2026-03-23",
+      "sabab": "kochirilgan",
+      "taxminiymi": false,
+      "izoh": "MK 208-modda: shanbadan ko'chirilgan dam olish"
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 8,
+    "fields": {
+      "bayram": 4,
+      "yil": 2026,
+      "sana": "2026-05-09",
+      "sabab": "asosiy",
+      "taxminiymi": false,
+      "izoh": "Shanbaga to'g'ri keladi"
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 9,
+    "fields": {
+      "bayram": 4,
+      "yil": 2026,
+      "sana": "2026-05-11",
+      "sabab": "kochirilgan",
+      "taxminiymi": false,
+      "izoh": "MK 208-modda: shanbadan ko'chirilgan dam olish"
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 10,
+    "fields": {
+      "bayram": 9,
+      "yil": 2026,
+      "sana": "2026-05-27",
+      "sabab": "asosiy",
+      "taxminiymi": true,
+      "izoh": "Aniq sana O'zbekiston musulmonlari idorasi tomonidan e'lon qilinadi"
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 11,
+    "fields": {
+      "bayram": 9,
+      "yil": 2026,
+      "sana": "2026-05-28",
+      "sabab": "qoshimcha",
+      "taxminiymi": true,
+      "izoh": "PF-257: qo'shimcha dam olish kuni"
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 12,
+    "fields": {
+      "bayram": 9,
+      "yil": 2026,
+      "sana": "2026-05-29",
+      "sabab": "qoshimcha",
+      "taxminiymi": true,
+      "izoh": "PF-257: ikkinchi qo'shimcha dam olish kuni"
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 13,
+    "fields": {
+      "bayram": 5,
+      "yil": 2026,
+      "sana": "2026-08-31",
+      "sabab": "qoshimcha",
+      "taxminiymi": false,
+      "izoh": "PF-257: Mustaqillik kuni arafasi, qo'shimcha dam olish"
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 14,
+    "fields": {
+      "bayram": 5,
+      "yil": 2026,
+      "sana": "2026-09-01",
+      "sabab": "asosiy",
+      "taxminiymi": false,
+      "izoh": ""
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 15,
+    "fields": {
+      "bayram": 6,
+      "yil": 2026,
+      "sana": "2026-10-01",
+      "sabab": "asosiy",
+      "taxminiymi": false,
+      "izoh": ""
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 16,
+    "fields": {
+      "bayram": 7,
+      "yil": 2026,
+      "sana": "2026-12-08",
+      "sabab": "asosiy",
+      "taxminiymi": false,
+      "izoh": ""
+    }
+  },
+  {
+    "model": "geo.bayramsanasi",
+    "pk": 17,
+    "fields": {
+      "bayram": 1,
+      "yil": 2026,
+      "sana": "2026-12-31",
+      "sabab": "kochirilgan",
+      "taxminiymi": false,
+      "izoh": "MK 208-modda: 12-dekabr shanbadan ko'chirilgan (5 kunlik ish haftasi uchun), 2027-yil Yangi yil ta'tiliga ulanadi"
+    }
+  }
+]

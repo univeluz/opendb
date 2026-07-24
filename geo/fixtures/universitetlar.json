@@ -1,0 +1,1498 @@
+[
+  {
+    "model": "geo.otm",
+    "pk": 1,
+    "fields": {
+      "slug": "buxoro-tibbiyot-instituti",
+      "name_uz": "Abu Ali Ibn Sino Nomidagi Buxoro Davlat Tibbiyot Instituti",
+      "turi": "davlat",
+      "viloyat": 4,
+      "source_url": "https://oliygoh.uz/oliygohlar/buxoro-tibbiyot-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 2,
+    "fields": {
+      "slug": "urganch-davlat-universiteti",
+      "name_uz": "Abu Rayhon Beruniy nomidagi Urganch davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 7,
+      "source_url": "https://oliygoh.uz/oliygohlar/urganch-davlat-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 3,
+    "fields": {
+      "slug": "nukus-davlat-pedagogika-instituti",
+      "name_uz": "Ajiniyoz nomidagi Nukus davlat pedagogika instituti",
+      "turi": "davlat",
+      "viloyat": 14,
+      "source_url": "https://oliygoh.uz/oliygohlar/nukus-davlat-pedagogika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 4,
+    "fields": {
+      "slug": "andijon-davlat-chet-tillari-instituti",
+      "name_uz": "Andijon davlat chet tillari instituti",
+      "turi": "davlat",
+      "viloyat": 3,
+      "source_url": "https://oliygoh.uz/oliygohlar/andijon-davlat-chet-tillari-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 5,
+    "fields": {
+      "slug": "andijon-davlat-universitetining-pedagogika-instituti",
+      "name_uz": "Andijon davlat pedagogika instituti",
+      "turi": "davlat",
+      "viloyat": 3,
+      "source_url": "https://oliygoh.uz/oliygohlar/andijon-davlat-universitetining-pedagogika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 6,
+    "fields": {
+      "slug": "andijon-davlat-texnika-instituti",
+      "name_uz": "Andijon davlat texnika instituti",
+      "turi": "davlat",
+      "viloyat": 3,
+      "source_url": "https://oliygoh.uz/oliygohlar/andijon-davlat-texnika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 7,
+    "fields": {
+      "slug": "andijon-tibbiyot-instituti",
+      "name_uz": "Andijon davlat tibbiyot instituti",
+      "turi": "davlat",
+      "viloyat": 3,
+      "source_url": "https://oliygoh.uz/oliygohlar/andijon-tibbiyot-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 8,
+    "fields": {
+      "slug": "andijon-davlat-universiteti",
+      "name_uz": "Andijon davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 3,
+      "source_url": "https://oliygoh.uz/oliygohlar/andijon-davlat-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 9,
+    "fields": {
+      "slug": "andijon-iqtisodiyot-va-qurilish-instituti",
+      "name_uz": "Andijon iqtisodiyot va qurilish instituti",
+      "turi": "davlat",
+      "viloyat": 3,
+      "source_url": "https://oliygoh.uz/oliygohlar/andijon-iqtisodiyot-va-qurilish-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 10,
+    "fields": {
+      "slug": "andijon-mashinasozlik-instituti",
+      "name_uz": "Andijon mashinasozlik instituti",
+      "turi": "davlat",
+      "viloyat": 3,
+      "source_url": "https://oliygoh.uz/oliygohlar/andijon-mashinasozlik-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 11,
+    "fields": {
+      "slug": "toshkent-davlat-agrar-universiteti-andijon-filiali",
+      "name_uz": "Andijon qishloq xo'jaligi va agrotexnologiyalar instituti",
+      "turi": "davlat",
+      "viloyat": 3,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-agrar-universiteti-andijon-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 12,
+    "fields": {
+      "slug": "qoraqalpoq-davlat-universiteti",
+      "name_uz": "Berdaq nomidagi Qoraqalpoq davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/qoraqalpoq-davlat-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 13,
+    "fields": {
+      "slug": "milliy-estrada-sanati-instituti",
+      "name_uz": "Botir Zokirov nomidagi Milliy estrada san'ati instituti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/milliy-estrada-sanati-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 14,
+    "fields": {
+      "slug": "buxoro-davlat-universitetining-pedagogika-instituti",
+      "name_uz": "Buxoro davlat pedagogika instituti",
+      "turi": "davlat",
+      "viloyat": 4,
+      "source_url": "https://oliygoh.uz/oliygohlar/buxoro-davlat-universitetining-pedagogika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 15,
+    "fields": {
+      "slug": "buxoro-davlat-texnika-universiteti",
+      "name_uz": "Buxoro davlat texnika universiteti",
+      "turi": "davlat",
+      "viloyat": 4,
+      "source_url": "https://oliygoh.uz/oliygohlar/buxoro-davlat-texnika-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 16,
+    "fields": {
+      "slug": "buxoro-davlat-universiteti",
+      "name_uz": "Buxoro davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 4,
+      "source_url": "https://oliygoh.uz/oliygohlar/buxoro-davlat-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 17,
+    "fields": {
+      "slug": "buxoro-muhandislik-texnologiya-instituti",
+      "name_uz": "Buxoro muhandislik-texnologiya instituti",
+      "turi": "davlat",
+      "viloyat": 4,
+      "source_url": "https://oliygoh.uz/oliygohlar/buxoro-muhandislik-texnologiya-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 18,
+    "fields": {
+      "slug": "toshkent-viloyati-chirchiq-davlat-pedagogika-instituti",
+      "name_uz": "Chirchiq davlat pedagogika universiteti",
+      "turi": "davlat",
+      "viloyat": 2,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-viloyati-chirchiq-davlat-pedagogika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 19,
+    "fields": {
+      "slug": "cyber-university-davlat-universiteti",
+      "name_uz": "\"Cyber university\" davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/cyber-university-davlat-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 20,
+    "fields": {
+      "slug": "toshkent-davlat-texnika-universiteti-qo-qon-filiali",
+      "name_uz": "Farg'ona davlat texnika universiteti",
+      "turi": "davlat",
+      "viloyat": 5,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-texnika-universiteti-qo-qon-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 21,
+    "fields": {
+      "slug": "farg-ona-davlat-universiteti",
+      "name_uz": "Farg'ona davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 5,
+      "source_url": "https://oliygoh.uz/oliygohlar/farg-ona-davlat-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 22,
+    "fields": {
+      "slug": "toshkent-tibbiyot-akademiyasi-farg-ona-filiali",
+      "name_uz": "Farg'ona jamoat salomatligi tibbiyot instituti",
+      "turi": "davlat",
+      "viloyat": 5,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-tibbiyot-akademiyasi-farg-ona-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 23,
+    "fields": {
+      "slug": "farg-ona-politexnika-instituti",
+      "name_uz": "Farg'ona politexnika instituti",
+      "turi": "davlat",
+      "viloyat": 5,
+      "source_url": "https://oliygoh.uz/oliygohlar/farg-ona-politexnika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 24,
+    "fields": {
+      "slug": "geologiya-fanlari-universiteti",
+      "name_uz": "Geologiya fanlari universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/geologiya-fanlari-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 25,
+    "fields": {
+      "slug": "guliston-davlat-pedagogika-instituti",
+      "name_uz": "Guliston davlat pedagogika instituti",
+      "turi": "davlat",
+      "viloyat": 12,
+      "source_url": "https://oliygoh.uz/oliygohlar/guliston-davlat-pedagogika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 26,
+    "fields": {
+      "slug": "guliston-davlat-universiteti",
+      "name_uz": "Guliston davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 12,
+      "source_url": "https://oliygoh.uz/oliygohlar/guliston-davlat-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 27,
+    "fields": {
+      "slug": "ipak-yo-li-turizm-xalqaro-universiteti",
+      "name_uz": "Ipak yo'li turizm va madaniy meros xalqaro universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/ipak-yo-li-turizm-xalqaro-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 28,
+    "fields": {
+      "slug": "jahon-iqtisodiyoti-va-diplomatiya-universiteti",
+      "name_uz": "Jahon iqtisodiyoti va diplomatiya universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/jahon-iqtisodiyoti-va-diplomatiya-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 29,
+    "fields": {
+      "slug": "jamoat-xavfsizligi-universiteti",
+      "name_uz": "Jamoat xavfsizligi universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/jamoat-xavfsizligi-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 30,
+    "fields": {
+      "slug": "jizzax-davlat-pedagogika-instituti",
+      "name_uz": "Jizzax davlat pedagogika universiteti",
+      "turi": "davlat",
+      "viloyat": 6,
+      "source_url": "https://oliygoh.uz/oliygohlar/jizzax-davlat-pedagogika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 31,
+    "fields": {
+      "slug": "jizzax-politexnika-instituti",
+      "name_uz": "Jizzax politexnika instituti",
+      "turi": "davlat",
+      "viloyat": 6,
+      "source_url": "https://oliygoh.uz/oliygohlar/jizzax-politexnika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 32,
+    "fields": {
+      "slug": "milliy-rassomlik-va-dizayn-instituti",
+      "name_uz": "Kamoliddin Behzod nomidagi Milliy rassomlik va dizayn instituti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/milliy-rassomlik-va-dizayn-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 33,
+    "fields": {
+      "slug": "samarqand-davlat-universiteti-kattaqorgon-filiali",
+      "name_uz": "Kattaqo'rg'on davlat pedagogika instituti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-davlat-universiteti-kattaqorgon-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 34,
+    "fields": {
+      "slug": "ozbekiston-milliy-universiteti",
+      "name_uz": "Mirzo Ulug'bek nomidagi O'zbekiston Milliy universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/ozbekiston-milliy-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 35,
+    "fields": {
+      "slug": "o-zbekiston-milliy-universiteti-jizzax-filiali",
+      "name_uz": "Mirzo Ulug'bek nomidagi O'zbekiston Milliy universitetining Jizzax filiali",
+      "turi": "davlat",
+      "viloyat": 6,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-milliy-universiteti-jizzax-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 36,
+    "fields": {
+      "slug": "samarqand-davlat-arxitektura-qurilish-instituti",
+      "name_uz": "Mirzo Ulug'bek nomidagi Samarqand davlat arxitektura-qurilish universiteti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-davlat-arxitektura-qurilish-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 37,
+    "fields": {
+      "slug": "toshkent-axborot-texnologiyalari-universiteti-nurafshon-filiali",
+      "name_uz": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti Nurafshon filiali",
+      "turi": "davlat",
+      "viloyat": 2,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-axborot-texnologiyalari-universiteti-nurafshon-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 38,
+    "fields": {
+      "slug": "toshkent-axborot-texnologiyalari-universiteti-farg-ona-filiali",
+      "name_uz": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti",
+      "turi": "davlat",
+      "viloyat": 5,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-axborot-texnologiyalari-universiteti-farg-ona-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 39,
+    "fields": {
+      "slug": "toshkent-axborot-texnologiyalari-universiteti",
+      "name_uz": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-axborot-texnologiyalari-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 40,
+    "fields": {
+      "slug": "toshkent-axborot-texnologiyalari-universiteti-nukus-filiali",
+      "name_uz": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti Nukus filiali",
+      "turi": "davlat",
+      "viloyat": 14,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-axborot-texnologiyalari-universiteti-nukus-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 41,
+    "fields": {
+      "slug": "toshkent-axborot-texnologiyalari-universiteti-qarshi-filiali",
+      "name_uz": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti Qarshi filiali",
+      "turi": "davlat",
+      "viloyat": 10,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-axborot-texnologiyalari-universiteti-qarshi-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 42,
+    "fields": {
+      "slug": "namangan-davlat-chet-tillari-instituti",
+      "name_uz": "Namangan davlat chet tillari instituti",
+      "turi": "davlat",
+      "viloyat": 8,
+      "source_url": "https://oliygoh.uz/oliygohlar/namangan-davlat-chet-tillari-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 43,
+    "fields": {
+      "slug": "namangan-davlat-pedagogika-instituti",
+      "name_uz": "Namangan davlat pedagogika instituti",
+      "turi": "davlat",
+      "viloyat": 8,
+      "source_url": "https://oliygoh.uz/oliygohlar/namangan-davlat-pedagogika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 44,
+    "fields": {
+      "slug": "namangan-davlat-texnika-universiteti",
+      "name_uz": "Namangan davlat texnika universiteti",
+      "turi": "davlat",
+      "viloyat": 8,
+      "source_url": "https://oliygoh.uz/oliygohlar/namangan-davlat-texnika-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 45,
+    "fields": {
+      "slug": "namangan-davlat-universiteti",
+      "name_uz": "Namangan davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 8,
+      "source_url": "https://oliygoh.uz/oliygohlar/namangan-davlat-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 46,
+    "fields": {
+      "slug": "namangan-muhandislik-qurilish-instituti",
+      "name_uz": "Namangan muhandislik-qurilish instituti",
+      "turi": "davlat",
+      "viloyat": 8,
+      "source_url": "https://oliygoh.uz/oliygohlar/namangan-muhandislik-qurilish-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 47,
+    "fields": {
+      "slug": "namangan-muhandislik-texnologiya-instituti",
+      "name_uz": "Namangan muhandislik-texnologiya instituti",
+      "turi": "davlat",
+      "viloyat": 8,
+      "source_url": "https://oliygoh.uz/oliygohlar/namangan-muhandislik-texnologiya-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 48,
+    "fields": {
+      "slug": "namangan-toqimachilik-sanoati-instituti",
+      "name_uz": "Namangan to'qimachilik sanoati instituti",
+      "turi": "davlat",
+      "viloyat": 8,
+      "source_url": "https://oliygoh.uz/oliygohlar/namangan-toqimachilik-sanoati-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 49,
+    "fields": {
+      "slug": "navoiy-konchilik-instituti-nukus-filiali",
+      "name_uz": "Navoiy davlat konchilik va texnologiyalar universiteti huzuridagi Nukus konchilik instituti",
+      "turi": "davlat",
+      "viloyat": 9,
+      "source_url": "https://oliygoh.uz/oliygohlar/navoiy-konchilik-instituti-nukus-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 50,
+    "fields": {
+      "slug": "navoiy-davlat-konchilik-instituti",
+      "name_uz": "Navoiy davlat konchilik va texnologiyalar universiteti",
+      "turi": "davlat",
+      "viloyat": 9,
+      "source_url": "https://oliygoh.uz/oliygohlar/navoiy-davlat-konchilik-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 51,
+    "fields": {
+      "slug": "navoiy-davlat-pedagogika-instituti",
+      "name_uz": "Navoiy davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 9,
+      "source_url": "https://oliygoh.uz/oliygohlar/navoiy-davlat-pedagogika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 52,
+    "fields": {
+      "slug": "nukus-davlat-pedagogika-instituti-ellikqal-a-fakulteti",
+      "name_uz": "Nukus davlat pedagogika instituti Ellikqal'a fakulteti",
+      "turi": "davlat",
+      "viloyat": 14,
+      "source_url": "https://oliygoh.uz/oliygohlar/nukus-davlat-pedagogika-instituti-ellikqal-a-fakulteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 53,
+    "fields": {
+      "slug": "nukus-davlat-texnika-universiteti",
+      "name_uz": "Nukus davlat texnika universiteti",
+      "turi": "davlat",
+      "viloyat": 14,
+      "source_url": "https://oliygoh.uz/oliygohlar/nukus-davlat-texnika-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 54,
+    "fields": {
+      "slug": "oliy-sport-mahorati-instituti",
+      "name_uz": "Oliy sport mahorati instituti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/oliy-sport-mahorati-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 55,
+    "fields": {
+      "slug": "tashkent-davlat-texnika-universitetining-olmaliq-filiali",
+      "name_uz": "Olmaliq davlat texnika instituti",
+      "turi": "davlat",
+      "viloyat": 2,
+      "source_url": "https://oliygoh.uz/oliygohlar/tashkent-davlat-texnika-universitetining-olmaliq-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 56,
+    "fields": {
+      "slug": "o-zbekiston-davlat-jismoniy-tarbiya-va-sport-universiteti-farg-ona-filiali",
+      "name_uz": "O'zbekiston davlat jismoniy tarbiya va sport universiteti Farg'ona filiali",
+      "turi": "davlat",
+      "viloyat": 5,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-davlat-jismoniy-tarbiya-va-sport-universiteti-farg-ona-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 57,
+    "fields": {
+      "slug": "o-zbekiston-davlat-jismoniy-tarbiya-va-sport-universiteti-nukus-filiali",
+      "name_uz": "O'zbekiston davlat jismoniy tarbiya va sport universiteti Nukus filiali",
+      "turi": "davlat",
+      "viloyat": 14,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-davlat-jismoniy-tarbiya-va-sport-universiteti-nukus-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 58,
+    "fields": {
+      "slug": "o-zbekiston-davlat-konservatoriyasi",
+      "name_uz": "O'zbekiston davlat konservatoriyasi",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-davlat-konservatoriyasi"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 59,
+    "fields": {
+      "slug": "ozbekiston-respublikasi-huquqni-muhofaza-qilish-akademiyasi",
+      "name_uz": "O'zbekiston Respublikasi Huquqni muhofaza qilish akademiyasi",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/ozbekiston-respublikasi-huquqni-muhofaza-qilish-akademiyasi"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 60,
+    "fields": {
+      "slug": "ozbekiston-davlat-jahon-tillari-universiteti",
+      "name_uz": "O'zbekiston davlat jahon tillari universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/ozbekiston-davlat-jahon-tillari-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 61,
+    "fields": {
+      "slug": "o-zbekiston-davlat-jahon-tillari-universiteti-angren-fakulteti",
+      "name_uz": "O'zbekiston davlat jahon tillari universiteti Angren fakulteti",
+      "turi": "davlat",
+      "viloyat": 2,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-davlat-jahon-tillari-universiteti-angren-fakulteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 62,
+    "fields": {
+      "slug": "o-zbekiston-davlat-jismoniy-tarbiya-va-sport-universiteti",
+      "name_uz": "O'zbekiston davlat jismoniy tarbiya va sport universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-davlat-jismoniy-tarbiya-va-sport-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 63,
+    "fields": {
+      "slug": "o-zbekiston-davlat-konservatoriyasi-nukus-filiali",
+      "name_uz": "O'zbekiston davlat konservatoriyasi Nukus filiali",
+      "turi": "davlat",
+      "viloyat": 14,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-davlat-konservatoriyasi-nukus-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 64,
+    "fields": {
+      "slug": "o-zbekiston-davlat-san-at-va-madaniyat-instituti",
+      "name_uz": "O'zbekiston davlat san'at va madaniyat instituti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-davlat-san-at-va-madaniyat-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 65,
+    "fields": {
+      "slug": "o-zbekiston-davlat-san-at-va-madaniyat-instituti-nukus-filiali",
+      "name_uz": "O'zbekiston davlat san'at va madaniyat instituti Nukus filiali",
+      "turi": "davlat",
+      "viloyat": 14,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-davlat-san-at-va-madaniyat-instituti-nukus-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 66,
+    "fields": {
+      "slug": "o-zbekiston-davlat-san-at-va-madaniyat-institutining-farg-ona-mintaqaviy-filiali",
+      "name_uz": "O'zbekiston davlat san'at va madaniyat institutining Farg'ona mintaqaviy filiali",
+      "turi": "davlat",
+      "viloyat": 5,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-davlat-san-at-va-madaniyat-institutining-farg-ona-mintaqaviy-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 67,
+    "fields": {
+      "slug": "milliy-raqs-va-xoreografiya-oliy-maktabi",
+      "name_uz": "O'zbekiston davlat xoreografiya akademiyasi",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/milliy-raqs-va-xoreografiya-oliy-maktabi"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 68,
+    "fields": {
+      "slug": "o-zbekiston-davlat-xoreografiya-akademiyasi-urganch-filiali",
+      "name_uz": "O'zbekiston davlat xoreografiya akademiyasi Urganch filiali",
+      "turi": "davlat",
+      "viloyat": 7,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-davlat-xoreografiya-akademiyasi-urganch-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 69,
+    "fields": {
+      "slug": "o-zbekiston-jurnalistika-va-ommaviy-kommunikatsiyalar-universiteti",
+      "name_uz": "O'zbekiston jurnalistika va ommaviy kommunikatsiyalar universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-jurnalistika-va-ommaviy-kommunikatsiyalar-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 70,
+    "fields": {
+      "slug": "toshkent-davlat-pedagogika-universiteti",
+      "name_uz": "O'zbekiston milliy pedagogika universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-pedagogika-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 71,
+    "fields": {
+      "slug": "o-zbekiston-xalqaro-islom-akademiyasi",
+      "name_uz": "O'zbekiston xalqaro islomshunoslik akademiyasi",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbekiston-xalqaro-islom-akademiyasi"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 72,
+    "fields": {
+      "slug": "oziq-ovqat-texnologiyasi-va-muhandisligi-xalqaro-instituti",
+      "name_uz": "Oziq-ovqat texnologiyasi va muhandisligi xalqaro instituti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/oziq-ovqat-texnologiyasi-va-muhandisligi-xalqaro-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 73,
+    "fields": {
+      "slug": "qarshi-muhandislik-iqtisodiyot-instituti",
+      "name_uz": "QARSHI MUHANDISLIK-IQTISODIYOT INSTITUTI",
+      "turi": "davlat",
+      "viloyat": 10,
+      "source_url": "https://oliygoh.uz/oliygohlar/qarshi-muhandislik-iqtisodiyot-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 74,
+    "fields": {
+      "slug": "qarshi-davlat-texnika-universiteti",
+      "name_uz": "Qarshi davlat texnika universiteti",
+      "turi": "davlat",
+      "viloyat": 10,
+      "source_url": "https://oliygoh.uz/oliygohlar/qarshi-davlat-texnika-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 75,
+    "fields": {
+      "slug": "qarshi-davlat-texnika-universiteti-shaxrisabz-oziq-ovqat-muhandisligi-fakulteti",
+      "name_uz": "Qarshi davlat texnika universiteti Shaxrisabz oziq-ovqat muhandisligi fakulteti",
+      "turi": "davlat",
+      "viloyat": 10,
+      "source_url": "https://oliygoh.uz/oliygohlar/qarshi-davlat-texnika-universiteti-shaxrisabz-oziq-ovqat-muhandisligi-fakulteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 76,
+    "fields": {
+      "slug": "qarshi-davlat-universiteti",
+      "name_uz": "Qarshi davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 10,
+      "source_url": "https://oliygoh.uz/oliygohlar/qarshi-davlat-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 77,
+    "fields": {
+      "slug": "qoqon-davlat-universiteti",
+      "name_uz": "Qo'qon davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 5,
+      "source_url": "https://oliygoh.uz/oliygohlar/qoqon-davlat-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 78,
+    "fields": {
+      "slug": "toshkent-davlat-agrar-universiteti-nukus-filiali",
+      "name_uz": "Qoraqalpog'iston qishloq xo'jaligi va agrotexnologiyalar instituti",
+      "turi": "davlat",
+      "viloyat": 14,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-agrar-universiteti-nukus-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 79,
+    "fields": {
+      "slug": "toshkent-pediatriya-tibbiyot-instituti-nukus-filiali",
+      "name_uz": "Qoraqalpog'iston tibbiyot instituti",
+      "turi": "davlat",
+      "viloyat": 14,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-pediatriya-tibbiyot-instituti-nukus-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 80,
+    "fields": {
+      "slug": "qoraqalpoq-davlat-universiteti-chimboy-fakulteti",
+      "name_uz": "Qoraqalpoq davlat universiteti Chimboy fakulteti",
+      "turi": "davlat",
+      "viloyat": 14,
+      "source_url": "https://oliygoh.uz/oliygohlar/qoraqalpoq-davlat-universiteti-chimboy-fakulteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 81,
+    "fields": {
+      "slug": "qoraqalpoq-davlat-universiteti-qo-ng-irot-fakul-teti",
+      "name_uz": "Qoraqalpoq davlat universiteti Qo'ng'irot fakul'teti",
+      "turi": "davlat",
+      "viloyat": 14,
+      "source_url": "https://oliygoh.uz/oliygohlar/qoraqalpoq-davlat-universiteti-qo-ng-irot-fakul-teti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 82,
+    "fields": {
+      "slug": "samarqand-veterinariya-meditsinasi-instituti-nukus-filiali",
+      "name_uz": "Samarqand davlat veterinariya meditsinasi, chorvachilik va biotexnologiyalar universiteti Nukus filiali",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-veterinariya-meditsinasi-instituti-nukus-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 83,
+    "fields": {
+      "slug": "samarqand-agroinnovatsiyalar-va-tadqiqotlar-instituti",
+      "name_uz": "Samarqand agroinnovatsiyalar va tadqiqotlar instituti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-agroinnovatsiyalar-va-tadqiqotlar-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 84,
+    "fields": {
+      "slug": "samarqand-davlat-chet-tillar-instituti",
+      "name_uz": "Samarqand davlat chet tillar instituti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-davlat-chet-tillar-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 85,
+    "fields": {
+      "slug": "samarqand-davlat-chet-tillar-instituti-narpay-xorijiy-tillar-fakulteti",
+      "name_uz": "Samarqand davlat chet tillar instituti Narpay \"Xorijiy tillar\" fakulteti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-davlat-chet-tillar-instituti-narpay-xorijiy-tillar-fakulteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 86,
+    "fields": {
+      "slug": "samarqand-davlat-chet-tillar-instituti-payariq-xorijiy-tillar-fakulteti",
+      "name_uz": "Samarqand davlat chet tillar instituti Payariq \"Xorijiy tillar\" fakul'teti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-davlat-chet-tillar-instituti-payariq-xorijiy-tillar-fakulteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 87,
+    "fields": {
+      "slug": "samarqand-davlat-universitetining-o-zbekiston-finlyandiya-pedagogika-instituti",
+      "name_uz": "Samarqand davlat pedagogika instituti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-davlat-universitetining-o-zbekiston-finlyandiya-pedagogika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 88,
+    "fields": {
+      "slug": "samarqand-tibbiyot-instituti",
+      "name_uz": "Samarqand davlat tibbiyot universiteti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-tibbiyot-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 89,
+    "fields": {
+      "slug": "samarqand-davlat-universiteti-agrobiotexnologiyalar-va-oziq-ovqat-xavfsizligi-instituti",
+      "name_uz": "Samarqand davlat universitetining Agrobiotexnologiyalar va oziq-ovqat xavfsizligi instituti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-davlat-universiteti-agrobiotexnologiyalar-va-oziq-ovqat-xavfsizligi-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 90,
+    "fields": {
+      "slug": "termiz-davlat-universitetining-denov-filiali",
+      "name_uz": "Samarqand davlat universitetining Denov tadbirkorlik va pedagogika instituti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/termiz-davlat-universitetining-denov-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 91,
+    "fields": {
+      "slug": "samarqand-veterinariya-meditsinasi-instituti",
+      "name_uz": "Samarqand davlat veterinariya meditsinasi, chorvachilik va biotexnologiyalar universiteti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-veterinariya-meditsinasi-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 92,
+    "fields": {
+      "slug": "samarqand-veterinariya-meditsinasi-instituti-toshkent-filiali",
+      "name_uz": "Samarqand davlat veterinariya meditsinasi, chorvachilik va biotexnologiyalar universiteti Toshkent filiali",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-veterinariya-meditsinasi-instituti-toshkent-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 93,
+    "fields": {
+      "slug": "toshkent-temir-yo-l-transporti-muhandislari-instituti",
+      "name_uz": "Samarqand davlat veterinariya meditsinasi, chorvachilik va biotexnologiyalar universitetining Toshkent filiali",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-temir-yo-l-transporti-muhandislari-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 94,
+    "fields": {
+      "slug": "samarqand-iqtisodiyot-va-servis-instituti",
+      "name_uz": "Samarqand iqtisodiyot va servis instituti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-iqtisodiyot-va-servis-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 95,
+    "fields": {
+      "slug": "toshkent-davlat-pedagogika-universiteti-shahrisabz-filiali",
+      "name_uz": "Shahrisabz davlat pedagogika instituti",
+      "turi": "davlat",
+      "viloyat": 10,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-pedagogika-universiteti-shahrisabz-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 96,
+    "fields": {
+      "slug": "qarshi-davlat-universitetining-pedagogika-instituti",
+      "name_uz": "Shahrisabz davlat pedagogika instituti",
+      "turi": "davlat",
+      "viloyat": 10,
+      "source_url": "https://oliygoh.uz/oliygohlar/qarshi-davlat-universitetining-pedagogika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 97,
+    "fields": {
+      "slug": "samarqand-davlat-universiteti",
+      "name_uz": "Sharof Rashidov nomidagi Samarqand davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/samarqand-davlat-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 98,
+    "fields": {
+      "slug": "toshkent-irrigatsiya-va-qishloq-xo-jaligini-mexanizatsiyalash-muhandislari-instituti-buxoro-filiali",
+      "name_uz": "\"TIQXMMI\" MTU BUXORO TABIIY RESURSLARNI BOSHQARISH INSTITUTI",
+      "turi": "davlat",
+      "viloyat": 4,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-irrigatsiya-va-qishloq-xo-jaligini-mexanizatsiyalash-muhandislari-instituti-buxoro-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 99,
+    "fields": {
+      "slug": "toshkent-irrigatsiya-va-qishloq-xo-jaligini-mexanizatsiyalash-muhandislari-instituti-qarshi-filiali",
+      "name_uz": "\"TIQXMMI\" Milliy tadqiqot universitetining Qarshi irrigatsiya va agrotexnologiyalar instituti",
+      "turi": "davlat",
+      "viloyat": 10,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-irrigatsiya-va-qishloq-xo-jaligini-mexanizatsiyalash-muhandislari-instituti-qarshi-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 100,
+    "fields": {
+      "slug": "toshkent-davlat-yuridik-universiteti",
+      "name_uz": "TOSHKENT DAVLAT YURIDIK UNIVERSITETI",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-yuridik-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 101,
+    "fields": {
+      "slug": "toshkent-davlat-agrar-universiteti-termiz-filiali",
+      "name_uz": "Termiz agrotexnologiyalar va innovatsion rivojlanish instituti",
+      "turi": "davlat",
+      "viloyat": 13,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-agrar-universiteti-termiz-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 102,
+    "fields": {
+      "slug": "termiz-davlat-muhandislik-va-agrotexnologiyalar-universiteti",
+      "name_uz": "Termiz davlat muhandislik va agrotexnologiyalar universiteti",
+      "turi": "davlat",
+      "viloyat": 13,
+      "source_url": "https://oliygoh.uz/oliygohlar/termiz-davlat-muhandislik-va-agrotexnologiyalar-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 103,
+    "fields": {
+      "slug": "nizomiy-nomidagi-toshkent-davlat-pedagogika-universitetining-termiz-filiali",
+      "name_uz": "Termiz davlat pedagogika instituti",
+      "turi": "davlat",
+      "viloyat": 13,
+      "source_url": "https://oliygoh.uz/oliygohlar/nizomiy-nomidagi-toshkent-davlat-pedagogika-universitetining-termiz-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 104,
+    "fields": {
+      "slug": "termiz-davlat-universiteti",
+      "name_uz": "Termiz davlat universiteti",
+      "turi": "davlat",
+      "viloyat": 13,
+      "source_url": "https://oliygoh.uz/oliygohlar/termiz-davlat-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 105,
+    "fields": {
+      "slug": "toshkent-davlat-texnika-universiteti-termiz-filiali",
+      "name_uz": "Termiz muhandislik-texnologiya instituti",
+      "turi": "davlat",
+      "viloyat": 13,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-texnika-universiteti-termiz-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 106,
+    "fields": {
+      "slug": "toshkent-arxitektura-qurilish-instituti",
+      "name_uz": "Toshkent arxitektura-qurilish universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-arxitektura-qurilish-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 107,
+    "fields": {
+      "slug": "toshkent-axborot-texnologiyalari-universiteti-samarqand-filiali",
+      "name_uz": "Toshkent axborot texnologiyalari universiteti Samarqand filiali",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-axborot-texnologiyalari-universiteti-samarqand-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 108,
+    "fields": {
+      "slug": "toshkent-axborot-texnologiyalari-universiteti-urganch-filiali",
+      "name_uz": "Toshkent axborot texnologiyalari universiteti Urganch filiali",
+      "turi": "davlat",
+      "viloyat": 7,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-axborot-texnologiyalari-universiteti-urganch-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 109,
+    "fields": {
+      "slug": "toshkent-axborot-texnologiyalari-universiteti-zarafshon-fakulteti",
+      "name_uz": "Toshkent axborot texnologiyalari universiteti Zarafshon fakulteti",
+      "turi": "davlat",
+      "viloyat": 9,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-axborot-texnologiyalari-universiteti-zarafshon-fakulteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 110,
+    "fields": {
+      "slug": "toshkent-davlat-agrar-universiteti",
+      "name_uz": "Toshkent davlat agrar universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-agrar-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 111,
+    "fields": {
+      "slug": "toshkent-davlat-iqtisodiyot-universiteti",
+      "name_uz": "Toshkent davlat iqtisodiyot universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-iqtisodiyot-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 112,
+    "fields": {
+      "slug": "davlat-soliq-qomitasi-huzuridagi-fiskal-instituti",
+      "name_uz": "Toshkent davlat iqtisodiyot universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/davlat-soliq-qomitasi-huzuridagi-fiskal-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 113,
+    "fields": {
+      "slug": "toshkent-moliya-instituti",
+      "name_uz": "Toshkent davlat iqtisodiyot universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-moliya-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 114,
+    "fields": {
+      "slug": "toshkent-moliya-instituti-andijon-fakulteti",
+      "name_uz": "Toshkent davlat iqtisodiyot universiteti Andijon fakulteti",
+      "turi": "davlat",
+      "viloyat": 3,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-moliya-instituti-andijon-fakulteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 115,
+    "fields": {
+      "slug": "toshkent-davlat-iqtisodiyot-universiteti-samarqand-filiali",
+      "name_uz": "Toshkent davlat iqtisodiyot universiteti Samarqand filiali",
+      "turi": "davlat",
+      "viloyat": 11,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-iqtisodiyot-universiteti-samarqand-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 116,
+    "fields": {
+      "slug": "toshkent-davlat-iqtisodiyot-universiteti-tortkol-fakulteti",
+      "name_uz": "Toshkent davlat iqtisodiyot universiteti To'rtko'l fakulteti",
+      "turi": "davlat",
+      "viloyat": 14,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-iqtisodiyot-universiteti-tortkol-fakulteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 117,
+    "fields": {
+      "slug": "toshkent-davlat-o-zbek-tili-va-adabiyoti-universiteti",
+      "name_uz": "Toshkent davlat o'zbek tili va adabiyoti universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-o-zbek-tili-va-adabiyoti-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 118,
+    "fields": {
+      "slug": "toshkent-davlat-sharqshunoslik-instituti",
+      "name_uz": "Toshkent davlat sharqshunoslik universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-sharqshunoslik-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 119,
+    "fields": {
+      "slug": "toshkent-davlat-stomatologiya-instituti",
+      "name_uz": "Toshkent davlat stomatologiya instituti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-stomatologiya-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 120,
+    "fields": {
+      "slug": "toshkent-davlat-texnika-universiteti",
+      "name_uz": "Islom Karimov nomidagi Toshkent davlat texnika universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-texnika-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 121,
+    "fields": {
+      "slug": "toshkent-tibbiyot-akademiyasi",
+      "name_uz": "Toshkent davlat tibbiyot universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-tibbiyot-akademiyasi"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 122,
+    "fields": {
+      "slug": "toshkent-davlat-tibbiyot-universiteti",
+      "name_uz": "Toshkent davlat tibbiyot universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-tibbiyot-universiteti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 123,
+    "fields": {
+      "slug": "toshkent-tibbiyot-akademiyasi-chirchiq-filiali",
+      "name_uz": "Toshkent davlat tibbiyot universiteti Chirchiq filiali",
+      "turi": "davlat",
+      "viloyat": 2,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-tibbiyot-akademiyasi-chirchiq-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 124,
+    "fields": {
+      "slug": "toshkent-tibbiyot-akademiyasining-termiz-filiali",
+      "name_uz": "Toshkent davlat tibbiyot universiteti Termiz filiali",
+      "turi": "davlat",
+      "viloyat": 13,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-tibbiyot-akademiyasining-termiz-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 125,
+    "fields": {
+      "slug": "toshkent-avtomobil-yo-llarini-loyihalash-qurish-va-ekspluatatsiyasi-instituti",
+      "name_uz": "Toshkent davlat transport universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-avtomobil-yo-llarini-loyihalash-qurish-va-ekspluatatsiyasi-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 126,
+    "fields": {
+      "slug": "toshkent-davlat-yuridik-universiteti-ixtisoslashtirilgan-filiali",
+      "name_uz": "Toshkent davlat yuridik universiteti Ixtisoslashtirilgan filiali",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-davlat-yuridik-universiteti-ixtisoslashtirilgan-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 127,
+    "fields": {
+      "slug": "toshkent-farmasevtika-instituti",
+      "name_uz": "Toshkent farmatsevtika instituti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-farmasevtika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 128,
+    "fields": {
+      "slug": "toshkent-irrigatsiya-va-qishloq-xo-jaligini-mexanizatsiyalash-muhandislari-instituti",
+      "name_uz": "Toshkent irrigatsiya va qishloq xo'jaligini mexanizatsiyalashtirish muhandislari instituti milliy tadqiqot universiteti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-irrigatsiya-va-qishloq-xo-jaligini-mexanizatsiyalash-muhandislari-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 129,
+    "fields": {
+      "slug": "toshkent-kimyo-texnologiya-instituti",
+      "name_uz": "Toshkent kimyo-texnologiya instituti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-kimyo-texnologiya-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 130,
+    "fields": {
+      "slug": "toshkent-kimyo-texnologiya-instituti-shahrisabz-filiali",
+      "name_uz": "Toshkent kimyo-texnologiya instituti Shahrisabz filiali",
+      "turi": "davlat",
+      "viloyat": 10,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-kimyo-texnologiya-instituti-shahrisabz-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 131,
+    "fields": {
+      "slug": "toshkent-kimyo-texnologiya-instituti-yangier-filiali",
+      "name_uz": "Toshkent kimyo-texnologiya instituti Yangiyer filiali",
+      "turi": "davlat",
+      "viloyat": 12,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-kimyo-texnologiya-instituti-yangier-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 132,
+    "fields": {
+      "slug": "toshkent-pediatriya-tibbiyot-instituti",
+      "name_uz": "Toshkent pediatriya tibbiyot instituti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-pediatriya-tibbiyot-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 133,
+    "fields": {
+      "slug": "toshkent-tibbiyot-akademiyasi-urganch-filiali",
+      "name_uz": "Toshkent tibbiyot akademiyasi Urganch filiali",
+      "turi": "davlat",
+      "viloyat": 7,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-tibbiyot-akademiyasi-urganch-filiali"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 134,
+    "fields": {
+      "slug": "toshkent-to-qimachilik-va-yengil-sanoat-instituti",
+      "name_uz": "Toshkent to'qimachilik va yengil sanoat instituti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/toshkent-to-qimachilik-va-yengil-sanoat-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 135,
+    "fields": {
+      "slug": "urganch-davlat-pedagogika-instituti",
+      "name_uz": "Urganch davlat pedagogika instituti",
+      "turi": "davlat",
+      "viloyat": 7,
+      "source_url": "https://oliygoh.uz/oliygohlar/urganch-davlat-pedagogika-instituti"
+    }
+  },
+  {
+    "model": "geo.otm",
+    "pk": 136,
+    "fields": {
+      "slug": "o-zbek-milliy-musiqa-san-ati-instituti",
+      "name_uz": "Yunus Rajabiy nomidagi O'zbek milliy musiqa san'ati instituti",
+      "turi": "davlat",
+      "viloyat": 1,
+      "source_url": "https://oliygoh.uz/oliygohlar/o-zbek-milliy-musiqa-san-ati-instituti"
+    }
+  }
+]

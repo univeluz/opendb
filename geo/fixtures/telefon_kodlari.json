@@ -1,0 +1,272 @@
+[
+  {
+    "model": "geo.telefonkodi",
+    "pk": 1,
+    "fields": {
+      "kodi": "71",
+      "turi": "mintaqaviy",
+      "viloyat": 1,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 2,
+    "fields": {
+      "kodi": "70",
+      "turi": "mintaqaviy",
+      "viloyat": 2,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 3,
+    "fields": {
+      "kodi": "74",
+      "turi": "mintaqaviy",
+      "viloyat": 3,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 4,
+    "fields": {
+      "kodi": "65",
+      "turi": "mintaqaviy",
+      "viloyat": 4,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 5,
+    "fields": {
+      "kodi": "73",
+      "turi": "mintaqaviy",
+      "viloyat": 5,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 6,
+    "fields": {
+      "kodi": "72",
+      "turi": "mintaqaviy",
+      "viloyat": 6,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 7,
+    "fields": {
+      "kodi": "62",
+      "turi": "mintaqaviy",
+      "viloyat": 7,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 8,
+    "fields": {
+      "kodi": "69",
+      "turi": "mintaqaviy",
+      "viloyat": 8,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 9,
+    "fields": {
+      "kodi": "79",
+      "turi": "mintaqaviy",
+      "viloyat": 9,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 10,
+    "fields": {
+      "kodi": "75",
+      "turi": "mintaqaviy",
+      "viloyat": 10,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 11,
+    "fields": {
+      "kodi": "61",
+      "turi": "mintaqaviy",
+      "viloyat": 14,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 12,
+    "fields": {
+      "kodi": "66",
+      "turi": "mintaqaviy",
+      "viloyat": 11,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 13,
+    "fields": {
+      "kodi": "67",
+      "turi": "mintaqaviy",
+      "viloyat": 12,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 14,
+    "fields": {
+      "kodi": "76",
+      "turi": "mintaqaviy",
+      "viloyat": 13,
+      "operator_nomi": ""
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 15,
+    "fields": {
+      "kodi": "90",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "Beeline"
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 16,
+    "fields": {
+      "kodi": "91",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "Beeline"
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 17,
+    "fields": {
+      "kodi": "92",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "Beeline"
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 18,
+    "fields": {
+      "kodi": "93",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "Ucell"
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 19,
+    "fields": {
+      "kodi": "94",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "Ucell"
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 20,
+    "fields": {
+      "kodi": "50",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "Ucell"
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 21,
+    "fields": {
+      "kodi": "97",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "Mobiuz"
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 22,
+    "fields": {
+      "kodi": "88",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "Mobiuz"
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 23,
+    "fields": {
+      "kodi": "98",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "Perfectum Mobile"
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 24,
+    "fields": {
+      "kodi": "95",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "Uzmobile"
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 25,
+    "fields": {
+      "kodi": "99",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "Uzmobile"
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 26,
+    "fields": {
+      "kodi": "33",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "Humans"
+    }
+  },
+  {
+    "model": "geo.telefonkodi",
+    "pk": 27,
+    "fields": {
+      "kodi": "20",
+      "turi": "mobil",
+      "viloyat": null,
+      "operator_nomi": "OQ Mobile"
+    }
+  }
+]

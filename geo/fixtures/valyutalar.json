@@ -1,0 +1,1038 @@
+[
+  {
+    "model": "geo.valyuta",
+    "pk": 1,
+    "fields": {
+      "cbu_id": 68,
+      "iso_numeric_code": "840",
+      "code": "USD",
+      "name_uz": "AQSH dollari",
+      "name_uz_cyrl": "АҚШ доллари",
+      "name_ru": "Доллар США",
+      "name_en": "US Dollar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 2,
+    "fields": {
+      "cbu_id": 20,
+      "iso_numeric_code": "978",
+      "code": "EUR",
+      "name_uz": "EVRO",
+      "name_uz_cyrl": "ЕВРО",
+      "name_ru": "Евро",
+      "name_en": "Euro",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 3,
+    "fields": {
+      "cbu_id": 56,
+      "iso_numeric_code": "643",
+      "code": "RUB",
+      "name_uz": "Rossiya rubli",
+      "name_uz_cyrl": "Россия рубли",
+      "name_ru": "Российский рубль",
+      "name_en": "Russian Ruble",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 4,
+    "fields": {
+      "cbu_id": 21,
+      "iso_numeric_code": "826",
+      "code": "GBP",
+      "name_uz": "Angliya funt sterlingi",
+      "name_uz_cyrl": "Англия фунт стерлинги",
+      "name_ru": "Фунт стерлингов",
+      "name_en": "Pound Sterling",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 5,
+    "fields": {
+      "cbu_id": 32,
+      "iso_numeric_code": "392",
+      "code": "JPY",
+      "name_uz": "Yaponiya iyenasi",
+      "name_uz_cyrl": "Япония иенаси",
+      "name_ru": "Иена",
+      "name_en": "Japan Yen",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 6,
+    "fields": {
+      "cbu_id": 6,
+      "iso_numeric_code": "944",
+      "code": "AZN",
+      "name_uz": "Ozarbayjon manati",
+      "name_uz_cyrl": "Озарбайжон манати",
+      "name_ru": "Азербайджанский манат",
+      "name_en": "Azerbaijan Manat",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 7,
+    "fields": {
+      "cbu_id": 7,
+      "iso_numeric_code": "050",
+      "code": "BDT",
+      "name_uz": "Bangladesh takasi",
+      "name_uz_cyrl": "Бангладеш такаси",
+      "name_ru": "Бангладешская така",
+      "name_en": "Bangladesh Taka",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 8,
+    "fields": {
+      "cbu_id": 8,
+      "iso_numeric_code": "048",
+      "code": "BHD",
+      "name_uz": "Bahrayn dinori",
+      "name_uz_cyrl": "Баҳрайн динори",
+      "name_ru": "Бахрейнский динар",
+      "name_en": "Bahraini Dinar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 9,
+    "fields": {
+      "cbu_id": 9,
+      "iso_numeric_code": "096",
+      "code": "BND",
+      "name_uz": "Bruney dollari",
+      "name_uz_cyrl": "Бруней доллари",
+      "name_ru": "Брунейский доллар",
+      "name_en": "Brunei Dollar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 10,
+    "fields": {
+      "cbu_id": 10,
+      "iso_numeric_code": "986",
+      "code": "BRL",
+      "name_uz": "Braziliya reali",
+      "name_uz_cyrl": "Бразилия реали",
+      "name_ru": "Бразильский реал",
+      "name_en": "Brazilian Real",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 11,
+    "fields": {
+      "cbu_id": 11,
+      "iso_numeric_code": "933",
+      "code": "BYN",
+      "name_uz": "Belorus rubli",
+      "name_uz_cyrl": "Белорус рубли",
+      "name_ru": "Белорусский рубль",
+      "name_en": "Belarusian Ruble",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 12,
+    "fields": {
+      "cbu_id": 12,
+      "iso_numeric_code": "124",
+      "code": "CAD",
+      "name_uz": "Kanada dollari",
+      "name_uz_cyrl": "Канада доллари",
+      "name_ru": "Канадский доллар",
+      "name_en": "Canadian Dollar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 13,
+    "fields": {
+      "cbu_id": 13,
+      "iso_numeric_code": "756",
+      "code": "CHF",
+      "name_uz": "Shveytsariya franki",
+      "name_uz_cyrl": "Швейцария франки",
+      "name_ru": "Швейцарский франк",
+      "name_en": "Swiss Franc",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 14,
+    "fields": {
+      "cbu_id": 14,
+      "iso_numeric_code": "156",
+      "code": "CNY",
+      "name_uz": "Xitoy yuani",
+      "name_uz_cyrl": "Хитой юани",
+      "name_ru": "Юань ренминби",
+      "name_en": "Yuan Renminbi",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 15,
+    "fields": {
+      "cbu_id": 15,
+      "iso_numeric_code": "192",
+      "code": "CUP",
+      "name_uz": "Kuba pesosi",
+      "name_uz_cyrl": "Куба песоси",
+      "name_ru": "Кубинское песо",
+      "name_en": "Cuban Peso",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 16,
+    "fields": {
+      "cbu_id": 16,
+      "iso_numeric_code": "203",
+      "code": "CZK",
+      "name_uz": "Chexiya kronasi",
+      "name_uz_cyrl": "Чехия кронаси",
+      "name_ru": "Чешская крона",
+      "name_en": "Czech Koruna",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 17,
+    "fields": {
+      "cbu_id": 17,
+      "iso_numeric_code": "208",
+      "code": "DKK",
+      "name_uz": "Daniya kronasi",
+      "name_uz_cyrl": "Дания кронаси",
+      "name_ru": "Датская крона",
+      "name_en": "Danish Krone",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 18,
+    "fields": {
+      "cbu_id": 18,
+      "iso_numeric_code": "012",
+      "code": "DZD",
+      "name_uz": "Jazoir dinori",
+      "name_uz_cyrl": "Жазоир динори",
+      "name_ru": "Алжирский динар",
+      "name_en": "Algerian Dinar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 19,
+    "fields": {
+      "cbu_id": 19,
+      "iso_numeric_code": "818",
+      "code": "EGP",
+      "name_uz": "Misr funti",
+      "name_uz_cyrl": "Миср функти",
+      "name_ru": "Египетский фунт",
+      "name_en": "Egyptian Pound",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 20,
+    "fields": {
+      "cbu_id": 2,
+      "iso_numeric_code": "971",
+      "code": "AFN",
+      "name_uz": "Afg'oniston afg'onisi",
+      "name_uz_cyrl": "Афғонистон афғониси",
+      "name_ru": "Афгани",
+      "name_en": "AF Afghani",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 21,
+    "fields": {
+      "cbu_id": 4,
+      "iso_numeric_code": "032",
+      "code": "ARS",
+      "name_uz": "Argentina pesosi",
+      "name_uz_cyrl": "Аргентина песоси",
+      "name_ru": "Аргентинское песо",
+      "name_en": "Argentine Peso",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 22,
+    "fields": {
+      "cbu_id": 22,
+      "iso_numeric_code": "981",
+      "code": "GEL",
+      "name_uz": "Gruziya larisi",
+      "name_uz_cyrl": "Грузия лариси",
+      "name_ru": "Грузинский лари",
+      "name_en": "Georgian Lari",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 23,
+    "fields": {
+      "cbu_id": 23,
+      "iso_numeric_code": "344",
+      "code": "HKD",
+      "name_uz": "Gongkong dollari",
+      "name_uz_cyrl": "Гонгконг доллари",
+      "name_ru": "Гонконгский доллар",
+      "name_en": "Hong Kong Dollar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 24,
+    "fields": {
+      "cbu_id": 24,
+      "iso_numeric_code": "348",
+      "code": "HUF",
+      "name_uz": "Vengriya forinti",
+      "name_uz_cyrl": "Венгрия форинти",
+      "name_ru": "Венгерский форинт",
+      "name_en": "Hungarian Forint",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 25,
+    "fields": {
+      "cbu_id": 25,
+      "iso_numeric_code": "360",
+      "code": "IDR",
+      "name_uz": "Indoneziya rupiyasi",
+      "name_uz_cyrl": "Индонезия рупияси",
+      "name_ru": "Рупия",
+      "name_en": "Rupiah",
+      "nominal": 10
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 26,
+    "fields": {
+      "cbu_id": 26,
+      "iso_numeric_code": "376",
+      "code": "ILS",
+      "name_uz": "Isroil shekeli",
+      "name_uz_cyrl": "Исроил шекели",
+      "name_ru": "Новый израильский шекель",
+      "name_en": "New Israeli Sheqel",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 27,
+    "fields": {
+      "cbu_id": 27,
+      "iso_numeric_code": "356",
+      "code": "INR",
+      "name_uz": "Hindiston rupiyasi",
+      "name_uz_cyrl": "Ҳиндистон рупияси",
+      "name_ru": "Индийская рупия",
+      "name_en": "Indian Rupee",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 28,
+    "fields": {
+      "cbu_id": 28,
+      "iso_numeric_code": "368",
+      "code": "IQD",
+      "name_uz": "Iroq dinori",
+      "name_uz_cyrl": "Ироқ динори",
+      "name_ru": "Иракский динар",
+      "name_en": "Iraqi Dinar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 29,
+    "fields": {
+      "cbu_id": 29,
+      "iso_numeric_code": "364",
+      "code": "IRR",
+      "name_uz": "Eron riali",
+      "name_uz_cyrl": "Эрон риали",
+      "name_ru": "Иранский риал",
+      "name_en": "Iranian Rial",
+      "nominal": 10
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 30,
+    "fields": {
+      "cbu_id": 30,
+      "iso_numeric_code": "352",
+      "code": "ISK",
+      "name_uz": "Islandiya kronasi",
+      "name_uz_cyrl": "Исландия кронаси",
+      "name_ru": "Исландская крона",
+      "name_en": "Iceland Krona",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 31,
+    "fields": {
+      "cbu_id": 31,
+      "iso_numeric_code": "400",
+      "code": "JOD",
+      "name_uz": "Iordaniya dinori",
+      "name_uz_cyrl": "Иордания динори",
+      "name_ru": "Иорданский динар",
+      "name_en": "Jordanian Dinar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 32,
+    "fields": {
+      "cbu_id": 5,
+      "iso_numeric_code": "036",
+      "code": "AUD",
+      "name_uz": "Avstraliya dollari",
+      "name_uz_cyrl": "Австралия доллари",
+      "name_ru": "Австралийский доллар",
+      "name_en": "Australian Dollar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 33,
+    "fields": {
+      "cbu_id": 33,
+      "iso_numeric_code": "417",
+      "code": "KGS",
+      "name_uz": "Qirg'iz somi",
+      "name_uz_cyrl": "Қирғиз соми",
+      "name_ru": "Киргизский сом",
+      "name_en": "Kyrgyzstan Som",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 34,
+    "fields": {
+      "cbu_id": 34,
+      "iso_numeric_code": "116",
+      "code": "KHR",
+      "name_uz": "Kambodja riyeli",
+      "name_uz_cyrl": "Камбоджа риели",
+      "name_ru": "Риель",
+      "name_en": "Riel",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 35,
+    "fields": {
+      "cbu_id": 35,
+      "iso_numeric_code": "410",
+      "code": "KRW",
+      "name_uz": "Koreya Respublikasi voni",
+      "name_uz_cyrl": "Корея Республикаси вони",
+      "name_ru": "Вона Республики Корея",
+      "name_en": "The Korean Republic Won",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 36,
+    "fields": {
+      "cbu_id": 36,
+      "iso_numeric_code": "414",
+      "code": "KWD",
+      "name_uz": "Quvayt dinori",
+      "name_uz_cyrl": "Қувайт динори",
+      "name_ru": "Кувейтский динар",
+      "name_en": "Kuwaiti Dinar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 37,
+    "fields": {
+      "cbu_id": 37,
+      "iso_numeric_code": "398",
+      "code": "KZT",
+      "name_uz": "Qozog'iston tengesi",
+      "name_uz_cyrl": "Қозоғистон тенгеси",
+      "name_ru": "Казахстанский тенге",
+      "name_en": "Kazakhstan Tenge",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 38,
+    "fields": {
+      "cbu_id": 38,
+      "iso_numeric_code": "418",
+      "code": "LAK",
+      "name_uz": "Laos kipisi",
+      "name_uz_cyrl": "Лаос кписи",
+      "name_ru": "Лаосский кип",
+      "name_en": "Lao Kip",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 39,
+    "fields": {
+      "cbu_id": 39,
+      "iso_numeric_code": "422",
+      "code": "LBP",
+      "name_uz": "Livan funti",
+      "name_uz_cyrl": "Ливан фунти",
+      "name_ru": "Ливанский фунт",
+      "name_en": "Lebanese Pound",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 40,
+    "fields": {
+      "cbu_id": 40,
+      "iso_numeric_code": "434",
+      "code": "LYD",
+      "name_uz": "Liviya dinori",
+      "name_uz_cyrl": "Ливия динори",
+      "name_ru": "Ливийский динар",
+      "name_en": "Libyan Dinar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 41,
+    "fields": {
+      "cbu_id": 41,
+      "iso_numeric_code": "504",
+      "code": "MAD",
+      "name_uz": "Marokash dirhami",
+      "name_uz_cyrl": "Марокаш дирҳами",
+      "name_ru": "Марокканский дирхам",
+      "name_en": "Moroccan Dirham",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 42,
+    "fields": {
+      "cbu_id": 42,
+      "iso_numeric_code": "498",
+      "code": "MDL",
+      "name_uz": "Moldaviya leyi",
+      "name_uz_cyrl": "Молдавия леи",
+      "name_ru": "Молдавский лей",
+      "name_en": "Moldovan Leu",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 43,
+    "fields": {
+      "cbu_id": 43,
+      "iso_numeric_code": "104",
+      "code": "MMK",
+      "name_uz": "Myanma kyati",
+      "name_uz_cyrl": "Мьянма кяти",
+      "name_ru": "Мьянманский кьят",
+      "name_en": "Kyat",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 44,
+    "fields": {
+      "cbu_id": 44,
+      "iso_numeric_code": "496",
+      "code": "MNT",
+      "name_uz": "Mongoliya tugriki",
+      "name_uz_cyrl": "Монголия тугрики",
+      "name_ru": "Монгольский тугрик",
+      "name_en": "Tugrik",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 45,
+    "fields": {
+      "cbu_id": 45,
+      "iso_numeric_code": "484",
+      "code": "MXN",
+      "name_uz": "Meksika pesosi",
+      "name_uz_cyrl": "Мексика песоси",
+      "name_ru": "Мексиканское песо",
+      "name_en": "Mexican Peso",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 46,
+    "fields": {
+      "cbu_id": 46,
+      "iso_numeric_code": "458",
+      "code": "MYR",
+      "name_uz": "Malayziya ringgiti",
+      "name_uz_cyrl": "Малайзия ринггити",
+      "name_ru": "Малайзийский ринггит",
+      "name_en": "Malaysian Ringgit",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 47,
+    "fields": {
+      "cbu_id": 47,
+      "iso_numeric_code": "578",
+      "code": "NOK",
+      "name_uz": "Norvegiya kronasi",
+      "name_uz_cyrl": "Норвегия кронаси",
+      "name_ru": "Норвежская крона",
+      "name_en": "Norwegian Krone",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 48,
+    "fields": {
+      "cbu_id": 48,
+      "iso_numeric_code": "554",
+      "code": "NZD",
+      "name_uz": "Yangi Zelandiya dollari",
+      "name_uz_cyrl": "Янги Зеландия доллари",
+      "name_ru": "Новозеландский доллар",
+      "name_en": "New Zealand Dollar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 49,
+    "fields": {
+      "cbu_id": 49,
+      "iso_numeric_code": "512",
+      "code": "OMR",
+      "name_uz": "Ummon riali",
+      "name_uz_cyrl": "Уммон риали",
+      "name_ru": "Оманский риал",
+      "name_en": "Rial Omani",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 50,
+    "fields": {
+      "cbu_id": 50,
+      "iso_numeric_code": "608",
+      "code": "PHP",
+      "name_uz": "Filippin pesosi",
+      "name_uz_cyrl": "Филиппин песоси",
+      "name_ru": "Филиппинское песо",
+      "name_en": "Philippine Piso",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 51,
+    "fields": {
+      "cbu_id": 51,
+      "iso_numeric_code": "586",
+      "code": "PKR",
+      "name_uz": "Pokiston rupiyasi",
+      "name_uz_cyrl": "Покистон рупияси",
+      "name_ru": "Пакистанская рупия",
+      "name_en": "Pakistan Rupee",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 52,
+    "fields": {
+      "cbu_id": 52,
+      "iso_numeric_code": "985",
+      "code": "PLN",
+      "name_uz": "Polsha zlotiysi",
+      "name_uz_cyrl": "Польша злотийси",
+      "name_ru": "Злотый",
+      "name_en": "Polish Zloty",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 53,
+    "fields": {
+      "cbu_id": 53,
+      "iso_numeric_code": "634",
+      "code": "QAR",
+      "name_uz": "Qatar riali",
+      "name_uz_cyrl": "Қатар риали",
+      "name_ru": "Катарский риал",
+      "name_en": "Qatari Rial",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 54,
+    "fields": {
+      "cbu_id": 54,
+      "iso_numeric_code": "946",
+      "code": "RON",
+      "name_uz": "Ruminiya leyi",
+      "name_uz_cyrl": "Руминия леи",
+      "name_ru": "Румынский лей",
+      "name_en": "Romanian Leu",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 55,
+    "fields": {
+      "cbu_id": 55,
+      "iso_numeric_code": "941",
+      "code": "RSD",
+      "name_uz": "Serbiya dinori",
+      "name_uz_cyrl": "Сербия динори",
+      "name_ru": "Сербский динар",
+      "name_en": "Serbian Dinar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 56,
+    "fields": {
+      "cbu_id": 3,
+      "iso_numeric_code": "051",
+      "code": "AMD",
+      "name_uz": "Armaniston drami",
+      "name_uz_cyrl": "Арманистон драми",
+      "name_ru": "Армянский драм",
+      "name_en": "Armenian Dram",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 57,
+    "fields": {
+      "cbu_id": 57,
+      "iso_numeric_code": "682",
+      "code": "SAR",
+      "name_uz": "Saudiya Arabistoni riali",
+      "name_uz_cyrl": "Саудия Арабистони риали",
+      "name_ru": "Саудовский риял",
+      "name_en": "Saudi Riyal",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 58,
+    "fields": {
+      "cbu_id": 58,
+      "iso_numeric_code": "938",
+      "code": "SDG",
+      "name_uz": "Sudan funti",
+      "name_uz_cyrl": "Судан фунти",
+      "name_ru": "Суданский фунт",
+      "name_en": "Sudanese Pound",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 59,
+    "fields": {
+      "cbu_id": 59,
+      "iso_numeric_code": "752",
+      "code": "SEK",
+      "name_uz": "Shvetsiya kronasi",
+      "name_uz_cyrl": "Швеция кронаси",
+      "name_ru": "Шведская крона",
+      "name_en": "Swedish Krona",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 60,
+    "fields": {
+      "cbu_id": 60,
+      "iso_numeric_code": "702",
+      "code": "SGD",
+      "name_uz": "Singapur dollari",
+      "name_uz_cyrl": "Сингапур доллари",
+      "name_ru": "Сингапурский доллар",
+      "name_en": "Singapore Dollar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 61,
+    "fields": {
+      "cbu_id": 61,
+      "iso_numeric_code": "760",
+      "code": "SYP",
+      "name_uz": "Suriya funti",
+      "name_uz_cyrl": "Сурия фунти",
+      "name_ru": "Сирийский фунт",
+      "name_en": "Syrian Pound",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 62,
+    "fields": {
+      "cbu_id": 62,
+      "iso_numeric_code": "764",
+      "code": "THB",
+      "name_uz": "Tailand bati",
+      "name_uz_cyrl": "Таиланд бати",
+      "name_ru": "Бат",
+      "name_en": "Baht",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 63,
+    "fields": {
+      "cbu_id": 63,
+      "iso_numeric_code": "972",
+      "code": "TJS",
+      "name_uz": "Tojikiston somonisi",
+      "name_uz_cyrl": "Тожикистон сомониси",
+      "name_ru": "Сомони",
+      "name_en": "Tajikistan Somoni",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 64,
+    "fields": {
+      "cbu_id": 64,
+      "iso_numeric_code": "934",
+      "code": "TMT",
+      "name_uz": "Turkmaniston manati",
+      "name_uz_cyrl": "Туркманистон манати",
+      "name_ru": "Новый туркменский манат",
+      "name_en": "Turkmenistan New Manat",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 65,
+    "fields": {
+      "cbu_id": 65,
+      "iso_numeric_code": "788",
+      "code": "TND",
+      "name_uz": "Tunis dinori",
+      "name_uz_cyrl": "Тунис динори",
+      "name_ru": "Тунисский динар",
+      "name_en": "Tunisian Dinar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 66,
+    "fields": {
+      "cbu_id": 66,
+      "iso_numeric_code": "949",
+      "code": "TRY",
+      "name_uz": "Turkiya lirasi",
+      "name_uz_cyrl": "Туркия лираси",
+      "name_ru": "Турецкая лира",
+      "name_en": "Turkish Lira",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 67,
+    "fields": {
+      "cbu_id": 67,
+      "iso_numeric_code": "980",
+      "code": "UAH",
+      "name_uz": "Ukraina grivnasi",
+      "name_uz_cyrl": "Украина гривнаси",
+      "name_ru": "Гривна",
+      "name_en": "Ukrainian Hryvnia",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 68,
+    "fields": {
+      "cbu_id": 1,
+      "iso_numeric_code": "784",
+      "code": "AED",
+      "name_uz": "BAA dirhami",
+      "name_uz_cyrl": "БАА дирҳами",
+      "name_ru": "Дирхам ОАЭ",
+      "name_en": "UAE Dirham",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 69,
+    "fields": {
+      "cbu_id": 69,
+      "iso_numeric_code": "858",
+      "code": "UYU",
+      "name_uz": "Urugvay pesosi",
+      "name_uz_cyrl": "Уругвай песоси",
+      "name_ru": "Уругвайское песо",
+      "name_en": "Peso Uruguayo",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 70,
+    "fields": {
+      "cbu_id": 70,
+      "iso_numeric_code": "928",
+      "code": "VES",
+      "name_uz": "Venesuela bolivari",
+      "name_uz_cyrl": "Венесуэла боливари",
+      "name_ru": "Венесуэльский боливар",
+      "name_en": "Bolívar",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 71,
+    "fields": {
+      "cbu_id": 71,
+      "iso_numeric_code": "704",
+      "code": "VND",
+      "name_uz": "Vetnam dongi",
+      "name_uz_cyrl": "Вьетнам донги",
+      "name_ru": "Донг",
+      "name_en": "Dong",
+      "nominal": 10
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 72,
+    "fields": {
+      "cbu_id": 72,
+      "iso_numeric_code": "960",
+      "code": "XDR",
+      "name_uz": "SDR",
+      "name_uz_cyrl": "СДР",
+      "name_ru": "СДР",
+      "name_en": "SDR",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 73,
+    "fields": {
+      "cbu_id": 73,
+      "iso_numeric_code": "886",
+      "code": "YER",
+      "name_uz": "Yaman riali",
+      "name_uz_cyrl": "Яман риали",
+      "name_ru": "Йеменский риал",
+      "name_en": "Yemeni Rial",
+      "nominal": 1
+    }
+  },
+  {
+    "model": "geo.valyuta",
+    "pk": 74,
+    "fields": {
+      "cbu_id": 74,
+      "iso_numeric_code": "710",
+      "code": "ZAR",
+      "name_uz": "Janubiy Afrika randi",
+      "name_uz_cyrl": "Жанубий Африка ранди",
+      "name_ru": "Рэнд",
+      "name_en": "Rand",
+      "nominal": 1
+    }
+  }
+]

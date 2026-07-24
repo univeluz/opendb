@@ -1,0 +1,145 @@
+[
+  {
+    "model": "geo.bayram",
+    "pk": 1,
+    "fields": {
+      "slug": "yangi-yil",
+      "name_uz": "Yangi yil",
+      "turi": "milliy",
+      "oy": 1,
+      "kun": 1,
+      "rasman_dam_olish_kuni": true,
+      "tavsif": "Xalqaro Yangi yil bayrami."
+    }
+  },
+  {
+    "model": "geo.bayram",
+    "pk": 2,
+    "fields": {
+      "slug": "xotin-qizlar-kuni",
+      "name_uz": "Xalqaro xotin-qizlar kuni",
+      "turi": "milliy",
+      "oy": 3,
+      "kun": 8,
+      "rasman_dam_olish_kuni": true,
+      "tavsif": "Xalqaro xotin-qizlar kuni."
+    }
+  },
+  {
+    "model": "geo.bayram",
+    "pk": 3,
+    "fields": {
+      "slug": "navroz",
+      "name_uz": "Navro'z bayrami",
+      "turi": "milliy",
+      "oy": 3,
+      "kun": 21,
+      "rasman_dam_olish_kuni": true,
+      "tavsif": "O'rta Osiyo xalqlarining qadimiy bahor/yilboshi bayrami."
+    }
+  },
+  {
+    "model": "geo.bayram",
+    "pk": 4,
+    "fields": {
+      "slug": "xotira-va-qadrlash-kuni",
+      "name_uz": "Xotira va qadrlash kuni",
+      "turi": "milliy",
+      "oy": 5,
+      "kun": 9,
+      "rasman_dam_olish_kuni": true,
+      "tavsif": "Ikkinchi jahon urushi qurbonlarini xotirlash va faxriylarni qadrlash kuni."
+    }
+  },
+  {
+    "model": "geo.bayram",
+    "pk": 5,
+    "fields": {
+      "slug": "mustaqillik-kuni",
+      "name_uz": "Mustaqillik kuni",
+      "turi": "milliy",
+      "oy": 9,
+      "kun": 1,
+      "rasman_dam_olish_kuni": true,
+      "tavsif": "O'zbekiston Respublikasi mustaqilligi e'lon qilingan kun (1991)."
+    }
+  },
+  {
+    "model": "geo.bayram",
+    "pk": 6,
+    "fields": {
+      "slug": "oqituvchi-va-murabbiylar-kuni",
+      "name_uz": "O'qituvchi va murabbiylar kuni",
+      "turi": "milliy",
+      "oy": 10,
+      "kun": 1,
+      "rasman_dam_olish_kuni": true,
+      "tavsif": "Pedagoglar va ta'lim-tarbiya xodimlari mehnatini qadrlash kuni."
+    }
+  },
+  {
+    "model": "geo.bayram",
+    "pk": 7,
+    "fields": {
+      "slug": "konstitutsiya-kuni",
+      "name_uz": "Konstitutsiya kuni",
+      "turi": "milliy",
+      "oy": 12,
+      "kun": 8,
+      "rasman_dam_olish_kuni": true,
+      "tavsif": "O'zbekiston Respublikasi Konstitutsiyasi qabul qilingan kun (1992)."
+    }
+  },
+  {
+    "model": "geo.bayram",
+    "pk": 8,
+    "fields": {
+      "slug": "roza-hayit",
+      "name_uz": "Ro'za hayit (Iyd al-Fitr)",
+      "turi": "diniy",
+      "oy": null,
+      "kun": null,
+      "rasman_dam_olish_kuni": true,
+      "tavsif": "Islomiy Ramazon oyi tugashi bayramining birinchi kuni. Oy taqvimiga asoslangan, har yili siljiydi."
+    }
+  },
+  {
+    "model": "geo.bayram",
+    "pk": 9,
+    "fields": {
+      "slug": "qurbon-hayit",
+      "name_uz": "Qurbon hayit (Iyd al-Adha)",
+      "turi": "diniy",
+      "oy": null,
+      "kun": null,
+      "rasman_dam_olish_kuni": true,
+      "tavsif": "Islomning yirik bayramlaridan biri. Oy taqvimiga asoslangan, har yili siljiydi."
+    }
+  },
+  {
+    "model": "geo.bayram",
+    "pk": 10,
+    "fields": {
+      "slug": "vatan-himoyachilari-kuni",
+      "name_uz": "Vatan himoyachilari kuni",
+      "turi": "milliy",
+      "oy": 1,
+      "kun": 14,
+      "rasman_dam_olish_kuni": false,
+      "tavsif": "O'zbekiston Qurolli Kuchlari tashkil etilgan sana -- nishonlanadi, lekin ish kuni."
+    }
+  },
+  {
+    "model": "geo.bayram",
+    "pk": 11,
+    "fields": {
+      "slug": "bolalarni-himoya-qilish-kuni",
+      "name_uz": "Xalqaro bolalarni himoya qilish kuni",
+      "turi": "milliy",
+      "oy": 6,
+      "kun": 1,
+      "rasman_dam_olish_kuni": false,
+      "tavsif": "Bolalar huquqlarini himoya qilish xalqaro kuni -- nishonlanadi, lekin ish kuni."
+    }
+  }
+]

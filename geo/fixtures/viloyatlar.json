@@ -1,0 +1,226 @@
+[
+  {
+    "model": "geo.viloyat",
+    "pk": 1,
+    "fields": {
+      "code": "UZ-TK",
+      "soato_code": "1726",
+      "name_uz": "Toshkent shahri",
+      "name_uz_cyrl": "Тошкент шаҳри",
+      "name_ru": "город Ташкент",
+      "name_en": "Tashkent City",
+      "center": "",
+      "turi": "shahar",
+      "latitude": 41.2995,
+      "longitude": 69.2401
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 2,
+    "fields": {
+      "code": "UZ-TO",
+      "soato_code": "1727",
+      "name_uz": "Toshkent viloyati",
+      "name_uz_cyrl": "Тошкент вилояти",
+      "name_ru": "Ташкентская область",
+      "name_en": "Tashkent Region",
+      "center": "Nurafshon",
+      "turi": "viloyat",
+      "latitude": 41.0433,
+      "longitude": 69.3453
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 3,
+    "fields": {
+      "code": "UZ-AN",
+      "soato_code": "1703",
+      "name_uz": "Andijon viloyati",
+      "name_uz_cyrl": "Андижон вилояти",
+      "name_ru": "Андижанская область",
+      "name_en": "Andijan Region",
+      "center": "Andijon",
+      "turi": "viloyat",
+      "latitude": 40.7821,
+      "longitude": 72.3442
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 4,
+    "fields": {
+      "code": "UZ-BU",
+      "soato_code": "1706",
+      "name_uz": "Buxoro viloyati",
+      "name_uz_cyrl": "Бухоро вилояти",
+      "name_ru": "Бухарская область",
+      "name_en": "Bukhara Region",
+      "center": "Buxoro",
+      "turi": "viloyat",
+      "latitude": 39.7747,
+      "longitude": 64.4286
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 5,
+    "fields": {
+      "code": "UZ-FA",
+      "soato_code": "1730",
+      "name_uz": "Farg'ona viloyati",
+      "name_uz_cyrl": "Фарғона вилояти",
+      "name_ru": "Ферганская область",
+      "name_en": "Fergana Region",
+      "center": "Farg'ona",
+      "turi": "viloyat",
+      "latitude": 40.3894,
+      "longitude": 71.7864
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 6,
+    "fields": {
+      "code": "UZ-JI",
+      "soato_code": "1708",
+      "name_uz": "Jizzax viloyati",
+      "name_uz_cyrl": "Жиззах вилояти",
+      "name_ru": "Джизакская область",
+      "name_en": "Jizzakh Region",
+      "center": "Jizzax",
+      "turi": "viloyat",
+      "latitude": 40.1158,
+      "longitude": 67.8422
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 7,
+    "fields": {
+      "code": "UZ-XO",
+      "soato_code": "1733",
+      "name_uz": "Xorazm viloyati",
+      "name_uz_cyrl": "Хоразм вилояти",
+      "name_ru": "Хорезмская область",
+      "name_en": "Khorezm Region",
+      "center": "Urganch",
+      "turi": "viloyat",
+      "latitude": 41.5506,
+      "longitude": 60.6317
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 8,
+    "fields": {
+      "code": "UZ-NG",
+      "soato_code": "1714",
+      "name_uz": "Namangan viloyati",
+      "name_uz_cyrl": "Наманган вилояти",
+      "name_ru": "Наманганская область",
+      "name_en": "Namangan Region",
+      "center": "Namangan",
+      "turi": "viloyat",
+      "latitude": 40.9983,
+      "longitude": 71.6726
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 9,
+    "fields": {
+      "code": "UZ-NW",
+      "soato_code": "1712",
+      "name_uz": "Navoiy viloyati",
+      "name_uz_cyrl": "Навоий вилояти",
+      "name_ru": "Навоийская область",
+      "name_en": "Navoiy Region",
+      "center": "Navoiy",
+      "turi": "viloyat",
+      "latitude": 40.0844,
+      "longitude": 65.3792
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 10,
+    "fields": {
+      "code": "UZ-QA",
+      "soato_code": "1710",
+      "name_uz": "Qashqadaryo viloyati",
+      "name_uz_cyrl": "Қашқадарё вилояти",
+      "name_ru": "Кашкадарьинская область",
+      "name_en": "Qashqadaryo Region",
+      "center": "Qarshi",
+      "turi": "viloyat",
+      "latitude": 38.8606,
+      "longitude": 65.7891
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 11,
+    "fields": {
+      "code": "UZ-SA",
+      "soato_code": "1718",
+      "name_uz": "Samarqand viloyati",
+      "name_uz_cyrl": "Самарқанд вилояти",
+      "name_ru": "Самаркандская область",
+      "name_en": "Samarqand Region",
+      "center": "Samarqand",
+      "turi": "viloyat",
+      "latitude": 39.6542,
+      "longitude": 66.9597
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 12,
+    "fields": {
+      "code": "UZ-SI",
+      "soato_code": "1724",
+      "name_uz": "Sirdaryo viloyati",
+      "name_uz_cyrl": "Сирдарё вилояти",
+      "name_ru": "Сырдарьинская область",
+      "name_en": "Sirdaryo Region",
+      "center": "Guliston",
+      "turi": "viloyat",
+      "latitude": 40.4897,
+      "longitude": 68.7842
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 13,
+    "fields": {
+      "code": "UZ-SU",
+      "soato_code": "1722",
+      "name_uz": "Surxondaryo viloyati",
+      "name_uz_cyrl": "Сурхондарё вилояти",
+      "name_ru": "Сурхандарьинская область",
+      "name_en": "Surkhandarya Region",
+      "center": "Termiz",
+      "turi": "viloyat",
+      "latitude": 37.2242,
+      "longitude": 67.2783
+    }
+  },
+  {
+    "model": "geo.viloyat",
+    "pk": 14,
+    "fields": {
+      "code": "UZ-QR",
+      "soato_code": "1735",
+      "name_uz": "Qoraqalpog'iston Respublikasi",
+      "name_uz_cyrl": "Қорақалпоғистон Республикаси",
+      "name_ru": "Республика Каракалпакстан",
+      "name_en": "Republic of Karakalpakstan",
+      "center": "Nukus",
+      "turi": "respublika",
+      "latitude": 42.4531,
+      "longitude": 59.6103
+    }
+  }
+]

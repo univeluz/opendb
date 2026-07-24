@@ -1,0 +1,2719 @@
+[
+  {
+    "model": "geo.tuman",
+    "pk": 1,
+    "fields": {
+      "viloyat": 1,
+      "slug": "bektemir-tumani",
+      "soato_code": "1726264",
+      "name_uz": "Bektemir tumani",
+      "name_uz_cyrl": "Бектемир тумани",
+      "name_ru": "Бектемирский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 2,
+    "fields": {
+      "viloyat": 1,
+      "slug": "chilonzor-tumani",
+      "soato_code": "1726294",
+      "name_uz": "Chilonzor tumani",
+      "name_uz_cyrl": "Чилонзор тумани",
+      "name_ru": "Чиланзарский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 3,
+    "fields": {
+      "viloyat": 1,
+      "slug": "mirobod-tumani",
+      "soato_code": "1726273",
+      "name_uz": "Mirobod tumani",
+      "name_uz_cyrl": "Миробод тумани",
+      "name_ru": "Мирабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 4,
+    "fields": {
+      "viloyat": 1,
+      "slug": "mirzo-ulugbek-tumani",
+      "soato_code": "1726269",
+      "name_uz": "Mirzo Ulug'bek tumani",
+      "name_uz_cyrl": "Мирзо Улуғбек тумани",
+      "name_ru": "Мирзо-Улугбекский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 5,
+    "fields": {
+      "viloyat": 1,
+      "slug": "olmazor-tumani",
+      "soato_code": "1726280",
+      "name_uz": "Olmazor tumani",
+      "name_uz_cyrl": "Олмазор тумани",
+      "name_ru": "Алмазарский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 6,
+    "fields": {
+      "viloyat": 1,
+      "slug": "shayxontohur-tumani",
+      "soato_code": "1726277",
+      "name_uz": "Shayxontohur tumani",
+      "name_uz_cyrl": "Шайхонтоҳур тумани",
+      "name_ru": "Шайхантахурский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 7,
+    "fields": {
+      "viloyat": 1,
+      "slug": "sirgali-tumani",
+      "soato_code": "1726283",
+      "name_uz": "Sirg'ali tumani",
+      "name_uz_cyrl": "Сирғали тумани",
+      "name_ru": "Сергелийский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 8,
+    "fields": {
+      "viloyat": 1,
+      "slug": "uchtepa-tumani",
+      "soato_code": "1726262",
+      "name_uz": "Uchtepa tumani",
+      "name_uz_cyrl": "Учтепа тумани",
+      "name_ru": "Учтепинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 9,
+    "fields": {
+      "viloyat": 1,
+      "slug": "yakkasaroy-tumani",
+      "soato_code": "1726287",
+      "name_uz": "Yakkasaroy tumani",
+      "name_uz_cyrl": "Яккасарой тумани",
+      "name_ru": "Яккасарайский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 10,
+    "fields": {
+      "viloyat": 1,
+      "slug": "yangihayot-tumani",
+      "soato_code": "1726292",
+      "name_uz": "Yangihayot tumani",
+      "name_uz_cyrl": "Янгиҳаёт тумани",
+      "name_ru": "Янгихаётский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 11,
+    "fields": {
+      "viloyat": 1,
+      "slug": "yashnobod-tumani",
+      "soato_code": "1726290",
+      "name_uz": "Yashnobod tumani",
+      "name_uz_cyrl": "Яшнобод тумани",
+      "name_ru": "Яшнабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 12,
+    "fields": {
+      "viloyat": 1,
+      "slug": "yunusobod-tumani",
+      "soato_code": "1726266",
+      "name_uz": "Yunusobod tumani",
+      "name_uz_cyrl": "Юнусобод тумани",
+      "name_ru": "Юнусабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 13,
+    "fields": {
+      "viloyat": 2,
+      "slug": "bekobod-tumani",
+      "soato_code": "1727220",
+      "name_uz": "Bekobod tumani",
+      "name_uz_cyrl": "Бекобод тумани",
+      "name_ru": "Бекабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 14,
+    "fields": {
+      "viloyat": 2,
+      "slug": "boka-tumani",
+      "soato_code": "1727228",
+      "name_uz": "Bo'ka tumani",
+      "name_uz_cyrl": "Бўка тумани",
+      "name_ru": "Букинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 15,
+    "fields": {
+      "viloyat": 2,
+      "slug": "bostonliq-tumani",
+      "soato_code": "1727224",
+      "name_uz": "Bo'stonliq tumani",
+      "name_uz_cyrl": "Бўстонлиқ тумани",
+      "name_ru": "Бостанлыкский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 16,
+    "fields": {
+      "viloyat": 2,
+      "slug": "chinoz-tumani",
+      "soato_code": "1727256",
+      "name_uz": "Chinoz tumani",
+      "name_uz_cyrl": "Чиноз тумани",
+      "name_ru": "Чиназский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 17,
+    "fields": {
+      "viloyat": 2,
+      "slug": "ortachirchiq-tumani",
+      "soato_code": "1727253",
+      "name_uz": "O'rtachirchiq tumani",
+      "name_uz_cyrl": "Ўртачирчиқ тумани",
+      "name_ru": "Уртачирчикский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 18,
+    "fields": {
+      "viloyat": 2,
+      "slug": "ohangaron-tumani",
+      "soato_code": "1727212",
+      "name_uz": "Ohangaron tumani",
+      "name_uz_cyrl": "Оҳангарон тумани",
+      "name_ru": "Ахангаранский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 19,
+    "fields": {
+      "viloyat": 2,
+      "slug": "oqqorgon-tumani",
+      "soato_code": "1727206",
+      "name_uz": "Oqqo'rg'on tumani",
+      "name_uz_cyrl": "Оққўрғон тумани",
+      "name_ru": "Аккурганский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 20,
+    "fields": {
+      "viloyat": 2,
+      "slug": "parkent-tumani",
+      "soato_code": "1727249",
+      "name_uz": "Parkent tumani",
+      "name_uz_cyrl": "Паркент тумани",
+      "name_ru": "Паркентский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 21,
+    "fields": {
+      "viloyat": 2,
+      "slug": "piskent-tumani",
+      "soato_code": "1727250",
+      "name_uz": "Piskent tumani",
+      "name_uz_cyrl": "Пискент тумани",
+      "name_ru": "Пскентский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 22,
+    "fields": {
+      "viloyat": 2,
+      "slug": "qibray-tumani",
+      "soato_code": "1727248",
+      "name_uz": "Qibray tumani",
+      "name_uz_cyrl": "Қибрай тумани",
+      "name_ru": "Кибрайский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 23,
+    "fields": {
+      "viloyat": 2,
+      "slug": "quyichirchiq-tumani",
+      "soato_code": "1727233",
+      "name_uz": "Quyichirchiq tumani",
+      "name_uz_cyrl": "Қуйичирчиқ тумани",
+      "name_ru": "Куйичирчикский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 24,
+    "fields": {
+      "viloyat": 2,
+      "slug": "toshkent-tumani",
+      "soato_code": "1727265",
+      "name_uz": "Toshkent tumani",
+      "name_uz_cyrl": "Тошкент тумани",
+      "name_ru": "Ташкентский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 25,
+    "fields": {
+      "viloyat": 2,
+      "slug": "yangiyol-tumani",
+      "soato_code": "1727259",
+      "name_uz": "Yangiyo'l tumani",
+      "name_uz_cyrl": "Янгийўл тумани",
+      "name_ru": "Янгиюльский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 26,
+    "fields": {
+      "viloyat": 2,
+      "slug": "yuqorichirchiq-tumani",
+      "soato_code": "1727239",
+      "name_uz": "Yuqorichirchiq tumani",
+      "name_uz_cyrl": "Юқоричирчиқ тумани",
+      "name_ru": "Юкоричирчикский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 27,
+    "fields": {
+      "viloyat": 2,
+      "slug": "zangiota-tumani",
+      "soato_code": "1727237",
+      "name_uz": "Zangiota tumani",
+      "name_uz_cyrl": "Зангиота тумани",
+      "name_ru": "Зангиатинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 28,
+    "fields": {
+      "viloyat": 2,
+      "slug": "angren-shahar",
+      "soato_code": "1727407",
+      "name_uz": "Angren",
+      "name_uz_cyrl": "Ангрен",
+      "name_ru": "Ангрен",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 29,
+    "fields": {
+      "viloyat": 2,
+      "slug": "bekobod-shahar",
+      "soato_code": "1727413",
+      "name_uz": "Bekobod",
+      "name_uz_cyrl": "Бекобод",
+      "name_ru": "Бекабад",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 30,
+    "fields": {
+      "viloyat": 2,
+      "slug": "chirchiq-shahar",
+      "soato_code": "1727419",
+      "name_uz": "Chirchiq",
+      "name_uz_cyrl": "Чирчиқ",
+      "name_ru": "Чиpчик",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 31,
+    "fields": {
+      "viloyat": 2,
+      "slug": "nurafshon-shahar",
+      "soato_code": "1727401",
+      "name_uz": "Nurafshon",
+      "name_uz_cyrl": "Нурафшон",
+      "name_ru": "Нурафшон",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 32,
+    "fields": {
+      "viloyat": 2,
+      "slug": "ohangaron-shahar",
+      "soato_code": "1727415",
+      "name_uz": "Ohangaron",
+      "name_uz_cyrl": "Оҳангарон",
+      "name_ru": "Ахангаран",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 33,
+    "fields": {
+      "viloyat": 2,
+      "slug": "olmaliq-shahar",
+      "soato_code": "1727404",
+      "name_uz": "Olmaliq",
+      "name_uz_cyrl": "Олмалиқ",
+      "name_ru": "Алмалык",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 34,
+    "fields": {
+      "viloyat": 2,
+      "slug": "yangiyol-shahar",
+      "soato_code": "1727424",
+      "name_uz": "Yangiyo'l",
+      "name_uz_cyrl": "Янгийўл",
+      "name_ru": "Янгиюль",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 35,
+    "fields": {
+      "viloyat": 3,
+      "slug": "andijon-tumani",
+      "soato_code": "1703203",
+      "name_uz": "Andijon tumani",
+      "name_uz_cyrl": "Андижон тумани",
+      "name_ru": "Андижанский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 36,
+    "fields": {
+      "viloyat": 3,
+      "slug": "asaka-tumani",
+      "soato_code": "1703224",
+      "name_uz": "Asaka tumani",
+      "name_uz_cyrl": "Асака тумани",
+      "name_ru": "Асакинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 37,
+    "fields": {
+      "viloyat": 3,
+      "slug": "baliqchi-tumani",
+      "soato_code": "1703206",
+      "name_uz": "Baliqchi tumani",
+      "name_uz_cyrl": "Балиқчи тумани",
+      "name_ru": "Балыкчинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 38,
+    "fields": {
+      "viloyat": 3,
+      "slug": "boz-tumani",
+      "soato_code": "1703209",
+      "name_uz": "Bo'z tumani",
+      "name_uz_cyrl": "Бўз тумани",
+      "name_ru": "Бозский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 39,
+    "fields": {
+      "viloyat": 3,
+      "slug": "buloqboshi-tumani",
+      "soato_code": "1703210",
+      "name_uz": "Buloqboshi tumani",
+      "name_uz_cyrl": "Булоқбоши тумани",
+      "name_ru": "Булакбашинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 40,
+    "fields": {
+      "viloyat": 3,
+      "slug": "izboskan-tumani",
+      "soato_code": "1703214",
+      "name_uz": "Izboskan tumani",
+      "name_uz_cyrl": "Избоскан тумани",
+      "name_ru": "Избасканский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 41,
+    "fields": {
+      "viloyat": 3,
+      "slug": "jalaquduq-tumani",
+      "soato_code": "1703211",
+      "name_uz": "Jalaquduq tumani",
+      "name_uz_cyrl": "Жалақудуқ тумани",
+      "name_ru": "Джалалкудукский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 42,
+    "fields": {
+      "viloyat": 3,
+      "slug": "marxamat-tumani",
+      "soato_code": "1703227",
+      "name_uz": "Marxamat tumani",
+      "name_uz_cyrl": "Мархамат тумани",
+      "name_ru": "Мархаматский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 43,
+    "fields": {
+      "viloyat": 3,
+      "slug": "oltinkol-tumani",
+      "soato_code": "1703202",
+      "name_uz": "Oltinko'l tumani",
+      "name_uz_cyrl": "Олтинкўл тумани",
+      "name_ru": "Алтынкульский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 44,
+    "fields": {
+      "viloyat": 3,
+      "slug": "paxtaobod-tumani",
+      "soato_code": "1703232",
+      "name_uz": "Paxtaobod tumani",
+      "name_uz_cyrl": "Пахтаобод тумани",
+      "name_ru": "Пахтаабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 45,
+    "fields": {
+      "viloyat": 3,
+      "slug": "qorgontepa-tumani",
+      "soato_code": "1703220",
+      "name_uz": "Qo'rg'ontepa tumani",
+      "name_uz_cyrl": "Қўрғонтепа тумани",
+      "name_ru": "Кургантепинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 46,
+    "fields": {
+      "viloyat": 3,
+      "slug": "shahrixon-tumani",
+      "soato_code": "1703230",
+      "name_uz": "Shahrixon tumani",
+      "name_uz_cyrl": "Шаҳрихон тумани",
+      "name_ru": "Шахриханский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 47,
+    "fields": {
+      "viloyat": 3,
+      "slug": "ulugnor-tumani",
+      "soato_code": "1703217",
+      "name_uz": "Ulug'nor tumani",
+      "name_uz_cyrl": "Улуғнор тумани",
+      "name_ru": "Улугноpский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 48,
+    "fields": {
+      "viloyat": 3,
+      "slug": "xojaobod-tumani",
+      "soato_code": "1703236",
+      "name_uz": "Xo'jaobod tumani",
+      "name_uz_cyrl": "Хўжаобод тумани",
+      "name_ru": "Ходжаабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 49,
+    "fields": {
+      "viloyat": 3,
+      "slug": "andijon-shahar",
+      "soato_code": "1703401",
+      "name_uz": "Andijon",
+      "name_uz_cyrl": "Андижон",
+      "name_ru": "Андижан",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 50,
+    "fields": {
+      "viloyat": 3,
+      "slug": "xonobod-shahar",
+      "soato_code": "1703408",
+      "name_uz": "Xonobod",
+      "name_uz_cyrl": "Хонобод",
+      "name_ru": "Ханабад",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 51,
+    "fields": {
+      "viloyat": 4,
+      "slug": "buxoro-tumani",
+      "soato_code": "1706207",
+      "name_uz": "Buxoro tumani",
+      "name_uz_cyrl": "Бухоро тумани",
+      "name_ru": "Бухарский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 52,
+    "fields": {
+      "viloyat": 4,
+      "slug": "gijduvon-tumani",
+      "soato_code": "1706215",
+      "name_uz": "G'ijduvon tumani",
+      "name_uz_cyrl": "Ғиждувон тумани",
+      "name_ru": "Гиждуванский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 53,
+    "fields": {
+      "viloyat": 4,
+      "slug": "jondor-tumani",
+      "soato_code": "1706246",
+      "name_uz": "Jondor tumani",
+      "name_uz_cyrl": "Жондор тумани",
+      "name_ru": "Жандарский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 54,
+    "fields": {
+      "viloyat": 4,
+      "slug": "kogon-tumani",
+      "soato_code": "1706219",
+      "name_uz": "Kogon tumani",
+      "name_uz_cyrl": "Когон тумани",
+      "name_ru": "Каганский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 55,
+    "fields": {
+      "viloyat": 4,
+      "slug": "olot-tumani",
+      "soato_code": "1706204",
+      "name_uz": "Olot tumani",
+      "name_uz_cyrl": "Олот тумани",
+      "name_ru": "Алатский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 56,
+    "fields": {
+      "viloyat": 4,
+      "slug": "peshku-tumani",
+      "soato_code": "1706240",
+      "name_uz": "Peshku tumani",
+      "name_uz_cyrl": "Пешку тумани",
+      "name_ru": "Пешкунский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 57,
+    "fields": {
+      "viloyat": 4,
+      "slug": "qorakol-tumani",
+      "soato_code": "1706230",
+      "name_uz": "Qorako'l tumani",
+      "name_uz_cyrl": "Қоракўл тумани",
+      "name_ru": "Каракульский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 58,
+    "fields": {
+      "viloyat": 4,
+      "slug": "qorovulbozor-tumani",
+      "soato_code": "1706232",
+      "name_uz": "Qorovulbozor tumani",
+      "name_uz_cyrl": "Қоровулбозор тумани",
+      "name_ru": "Караулбазарский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 59,
+    "fields": {
+      "viloyat": 4,
+      "slug": "romitan-tumani",
+      "soato_code": "1706242",
+      "name_uz": "Romitan tumani",
+      "name_uz_cyrl": "Ромитан тумани",
+      "name_ru": "Ромитанский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 60,
+    "fields": {
+      "viloyat": 4,
+      "slug": "shofirkon-tumani",
+      "soato_code": "1706258",
+      "name_uz": "Shofirkon tumani",
+      "name_uz_cyrl": "Шофиркон тумани",
+      "name_ru": "Шафирканский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 61,
+    "fields": {
+      "viloyat": 4,
+      "slug": "vobkent-tumani",
+      "soato_code": "1706212",
+      "name_uz": "Vobkent tumani",
+      "name_uz_cyrl": "Вобкент тумани",
+      "name_ru": "Вабкентский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 62,
+    "fields": {
+      "viloyat": 4,
+      "slug": "buxoro-shahar",
+      "soato_code": "1706401",
+      "name_uz": "Buxoro",
+      "name_uz_cyrl": "Бухоро",
+      "name_ru": "Бухара",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 63,
+    "fields": {
+      "viloyat": 4,
+      "slug": "kogon-shahar",
+      "soato_code": "1706403",
+      "name_uz": "Kogon",
+      "name_uz_cyrl": "Когон",
+      "name_ru": "Каган",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 64,
+    "fields": {
+      "viloyat": 5,
+      "slug": "beshariq-tumani",
+      "soato_code": "1730215",
+      "name_uz": "Beshariq tumani",
+      "name_uz_cyrl": "Бешариқ тумани",
+      "name_ru": "Бешарыкский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 65,
+    "fields": {
+      "viloyat": 5,
+      "slug": "bogdod-tumani",
+      "soato_code": "1730209",
+      "name_uz": "Bog'dod tumani",
+      "name_uz_cyrl": "Боғдод тумани",
+      "name_ru": "Багдадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 66,
+    "fields": {
+      "viloyat": 5,
+      "slug": "buvayda-tumani",
+      "soato_code": "1730212",
+      "name_uz": "Buvayda tumani",
+      "name_uz_cyrl": "Бувайда тумани",
+      "name_ru": "Бувайдинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 67,
+    "fields": {
+      "viloyat": 5,
+      "slug": "dangara-tumani",
+      "soato_code": "1730236",
+      "name_uz": "Dang'ara tumani",
+      "name_uz_cyrl": "Данғара тумани",
+      "name_ru": "Дангаринский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 68,
+    "fields": {
+      "viloyat": 5,
+      "slug": "fargona-tumani",
+      "soato_code": "1730233",
+      "name_uz": "Farg'ona tumani",
+      "name_uz_cyrl": "Фарғона тумани",
+      "name_ru": "Ферганский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 69,
+    "fields": {
+      "viloyat": 5,
+      "slug": "furqat-tumani",
+      "soato_code": "1730238",
+      "name_uz": "Furqat tumani",
+      "name_uz_cyrl": "Фурқат тумани",
+      "name_ru": "Фуркатский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 70,
+    "fields": {
+      "viloyat": 5,
+      "slug": "ozbekiston-tumani",
+      "soato_code": "1730230",
+      "name_uz": "O'zbekiston tumani",
+      "name_uz_cyrl": "Ўзбекистон тумани",
+      "name_ru": "Узбекистанский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 71,
+    "fields": {
+      "viloyat": 5,
+      "slug": "oltiariq-tumani",
+      "soato_code": "1730203",
+      "name_uz": "Oltiariq tumani",
+      "name_uz_cyrl": "Олтиариқ тумани",
+      "name_ru": "Алтыарыкский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 72,
+    "fields": {
+      "viloyat": 5,
+      "slug": "qoshtepa-tumani",
+      "soato_code": "1730206",
+      "name_uz": "Qo'shtepa tumani",
+      "name_uz_cyrl": "Қўштепа тумани",
+      "name_ru": "Куштепинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 73,
+    "fields": {
+      "viloyat": 5,
+      "slug": "quva-tumani",
+      "soato_code": "1730218",
+      "name_uz": "Quva tumani",
+      "name_uz_cyrl": "Қува тумани",
+      "name_ru": "Кувинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 74,
+    "fields": {
+      "viloyat": 5,
+      "slug": "rishton-tumani",
+      "soato_code": "1730224",
+      "name_uz": "Rishton tumani",
+      "name_uz_cyrl": "Риштон тумани",
+      "name_ru": "Риштанский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 75,
+    "fields": {
+      "viloyat": 5,
+      "slug": "sox-tumani",
+      "soato_code": "1730226",
+      "name_uz": "So'x tumani",
+      "name_uz_cyrl": "Сўх тумани",
+      "name_ru": "Сохский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 76,
+    "fields": {
+      "viloyat": 5,
+      "slug": "toshloq-tumani",
+      "soato_code": "1730227",
+      "name_uz": "Toshloq tumani",
+      "name_uz_cyrl": "Тошлоқ тумани",
+      "name_ru": "Ташлакский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 77,
+    "fields": {
+      "viloyat": 5,
+      "slug": "uchkoprik-tumani",
+      "soato_code": "1730221",
+      "name_uz": "Uchko'prik tumani",
+      "name_uz_cyrl": "Учкўприк тумани",
+      "name_ru": "Учкуприкский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 78,
+    "fields": {
+      "viloyat": 5,
+      "slug": "yozyovon-tumani",
+      "soato_code": "1730242",
+      "name_uz": "Yozyovon tumani",
+      "name_uz_cyrl": "Ёзёвон тумани",
+      "name_ru": "Язъяванский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 79,
+    "fields": {
+      "viloyat": 5,
+      "slug": "fargona-shahar",
+      "soato_code": "1730401",
+      "name_uz": "Farg'ona",
+      "name_uz_cyrl": "Фарғона",
+      "name_ru": "Фергана",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 80,
+    "fields": {
+      "viloyat": 5,
+      "slug": "margilon-shahar",
+      "soato_code": "1730412",
+      "name_uz": "Marg'ilon",
+      "name_uz_cyrl": "Марғилон",
+      "name_ru": "Маpгилан",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 81,
+    "fields": {
+      "viloyat": 5,
+      "slug": "qoqon-shahar",
+      "soato_code": "1730405",
+      "name_uz": "Qo'qon",
+      "name_uz_cyrl": "Қўқон",
+      "name_ru": "Коканд",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 82,
+    "fields": {
+      "viloyat": 5,
+      "slug": "quvasoy-shahar",
+      "soato_code": "1730408",
+      "name_uz": "Quvasoy",
+      "name_uz_cyrl": "Қувасой",
+      "name_ru": "Кувасай",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 83,
+    "fields": {
+      "viloyat": 6,
+      "slug": "arnasoy-tumani",
+      "soato_code": "1708201",
+      "name_uz": "Arnasoy tumani",
+      "name_uz_cyrl": "Арнасой тумани",
+      "name_ru": "Арнасайский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 84,
+    "fields": {
+      "viloyat": 6,
+      "slug": "baxmal-tumani",
+      "soato_code": "1708204",
+      "name_uz": "Baxmal tumani",
+      "name_uz_cyrl": "Бахмал тумани",
+      "name_ru": "Бахмальский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 85,
+    "fields": {
+      "viloyat": 6,
+      "slug": "dostlik-tumani",
+      "soato_code": "1708215",
+      "name_uz": "Do'stlik tumani",
+      "name_uz_cyrl": "Дўстлик тумани",
+      "name_ru": "Дустликский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 86,
+    "fields": {
+      "viloyat": 6,
+      "slug": "forish-tumani",
+      "soato_code": "1708235",
+      "name_uz": "Forish tumani",
+      "name_uz_cyrl": "Фориш тумани",
+      "name_ru": "Фаришский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 87,
+    "fields": {
+      "viloyat": 6,
+      "slug": "gallaorol-tumani",
+      "soato_code": "1708209",
+      "name_uz": "G'allaorol tumani",
+      "name_uz_cyrl": "Ғаллаорол тумани",
+      "name_ru": "Галляаральский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 88,
+    "fields": {
+      "viloyat": 6,
+      "slug": "mirzachol-tumani",
+      "soato_code": "1708223",
+      "name_uz": "Mirzacho'l tumani",
+      "name_uz_cyrl": "Мирзачўл тумани",
+      "name_ru": "Мирзачульский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 89,
+    "fields": {
+      "viloyat": 6,
+      "slug": "paxtakor-tumani",
+      "soato_code": "1708228",
+      "name_uz": "Paxtakor tumani",
+      "name_uz_cyrl": "Пахтакор тумани",
+      "name_ru": "Пахтакорский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 90,
+    "fields": {
+      "viloyat": 6,
+      "slug": "sh-rashidov-tumani",
+      "soato_code": "1708212",
+      "name_uz": "Sh.Rashidov tumani",
+      "name_uz_cyrl": "Ш.Рашидов тумани",
+      "name_ru": "Ш.Рашидовский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 91,
+    "fields": {
+      "viloyat": 6,
+      "slug": "yangiobod-tumani",
+      "soato_code": "1708237",
+      "name_uz": "Yangiobod tumani",
+      "name_uz_cyrl": "Янгиобод тумани",
+      "name_ru": "Янгиабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 92,
+    "fields": {
+      "viloyat": 6,
+      "slug": "zafarobod-tumani",
+      "soato_code": "1708225",
+      "name_uz": "Zafarobod tumani",
+      "name_uz_cyrl": "Зафаробод тумани",
+      "name_ru": "Зафарабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 93,
+    "fields": {
+      "viloyat": 6,
+      "slug": "zarbdor-tumani",
+      "soato_code": "1708220",
+      "name_uz": "Zarbdor tumani",
+      "name_uz_cyrl": "Зарбдор тумани",
+      "name_ru": "Зарбдарский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 94,
+    "fields": {
+      "viloyat": 6,
+      "slug": "zomin-tumani",
+      "soato_code": "1708218",
+      "name_uz": "Zomin tumani",
+      "name_uz_cyrl": "Зомин тумани",
+      "name_ru": "Зааминский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 95,
+    "fields": {
+      "viloyat": 6,
+      "slug": "jizzax-shahar",
+      "soato_code": "1708401",
+      "name_uz": "Jizzax",
+      "name_uz_cyrl": "Жиззах",
+      "name_ru": "Джизак",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 96,
+    "fields": {
+      "viloyat": 7,
+      "slug": "bogot-tumani",
+      "soato_code": "1733204",
+      "name_uz": "Bog'ot tumani",
+      "name_uz_cyrl": "Боғот тумани",
+      "name_ru": "Багатский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 97,
+    "fields": {
+      "viloyat": 7,
+      "slug": "gurlan-tumani",
+      "soato_code": "1733208",
+      "name_uz": "Gurlan tumani",
+      "name_uz_cyrl": "Гурлан тумани",
+      "name_ru": "Гурленский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 98,
+    "fields": {
+      "viloyat": 7,
+      "slug": "qoshkopir-tumani",
+      "soato_code": "1733212",
+      "name_uz": "Qo'shko'pir tumani",
+      "name_uz_cyrl": "Қўшкўпир тумани",
+      "name_ru": "Кошкупырский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 99,
+    "fields": {
+      "viloyat": 7,
+      "slug": "shovot-tumani",
+      "soato_code": "1733230",
+      "name_uz": "Shovot tumani",
+      "name_uz_cyrl": "Шовот тумани",
+      "name_ru": "Шаватский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 100,
+    "fields": {
+      "viloyat": 7,
+      "slug": "tuproqqala-tumani",
+      "soato_code": "1733221",
+      "name_uz": "Tuproqqal'a tumani",
+      "name_uz_cyrl": "Тупроққалъа тумани",
+      "name_ru": "Тупроккалинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 101,
+    "fields": {
+      "viloyat": 7,
+      "slug": "urganch-tumani",
+      "soato_code": "1733217",
+      "name_uz": "Urganch tumani",
+      "name_uz_cyrl": "Урганч тумани",
+      "name_ru": "Ургенчский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 102,
+    "fields": {
+      "viloyat": 7,
+      "slug": "xazorasp-tumani",
+      "soato_code": "1733220",
+      "name_uz": "Xazorasp tumani",
+      "name_uz_cyrl": "Хазорасп тумани",
+      "name_ru": "Хазараспский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 103,
+    "fields": {
+      "viloyat": 7,
+      "slug": "xiva-tumani",
+      "soato_code": "1733226",
+      "name_uz": "Xiva tumani",
+      "name_uz_cyrl": "Хива тумани",
+      "name_ru": "Хивинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 104,
+    "fields": {
+      "viloyat": 7,
+      "slug": "xonqa-tumani",
+      "soato_code": "1733223",
+      "name_uz": "Xonqa tumani",
+      "name_uz_cyrl": "Хонқа тумани",
+      "name_ru": "Ханкинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 105,
+    "fields": {
+      "viloyat": 7,
+      "slug": "yangiariq-tumani",
+      "soato_code": "1733233",
+      "name_uz": "Yangiariq tumani",
+      "name_uz_cyrl": "Янгиариқ тумани",
+      "name_ru": "Янгиарыкский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 106,
+    "fields": {
+      "viloyat": 7,
+      "slug": "yangibozor-tumani",
+      "soato_code": "1733236",
+      "name_uz": "Yangibozor tumani",
+      "name_uz_cyrl": "Янгибозор тумани",
+      "name_ru": "Янгибазарский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 107,
+    "fields": {
+      "viloyat": 7,
+      "slug": "urganch-shahar",
+      "soato_code": "1733401",
+      "name_uz": "Urganch",
+      "name_uz_cyrl": "Урганч",
+      "name_ru": "Ургенч",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 108,
+    "fields": {
+      "viloyat": 7,
+      "slug": "xiva-shahar",
+      "soato_code": "1733406",
+      "name_uz": "Xiva",
+      "name_uz_cyrl": "Хива",
+      "name_ru": "Хива",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 109,
+    "fields": {
+      "viloyat": 8,
+      "slug": "chortoq-tumani",
+      "soato_code": "1714236",
+      "name_uz": "Chortoq tumani",
+      "name_uz_cyrl": "Чортоқ тумани",
+      "name_ru": "Чартакский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 110,
+    "fields": {
+      "viloyat": 8,
+      "slug": "chust-tumani",
+      "soato_code": "1714237",
+      "name_uz": "Chust tumani",
+      "name_uz_cyrl": "Чуст тумани",
+      "name_ru": "Чустский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 111,
+    "fields": {
+      "viloyat": 8,
+      "slug": "davlatobod-tumani",
+      "soato_code": null,
+      "name_uz": "Davlatobod tumani",
+      "name_uz_cyrl": "Давлатобод тумани",
+      "name_ru": "Давлатабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 112,
+    "fields": {
+      "viloyat": 8,
+      "slug": "kosonsoy-tumani",
+      "soato_code": "1714207",
+      "name_uz": "Kosonsoy tumani",
+      "name_uz_cyrl": "Косонсой тумани",
+      "name_ru": "Касансайский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 113,
+    "fields": {
+      "viloyat": 8,
+      "slug": "mingbuloq-tumani",
+      "soato_code": "1714204",
+      "name_uz": "Mingbuloq tumani",
+      "name_uz_cyrl": "Мингбулоқ тумани",
+      "name_ru": "Мингбулакский pайон",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 114,
+    "fields": {
+      "viloyat": 8,
+      "slug": "namangan-tumani",
+      "soato_code": "1714212",
+      "name_uz": "Namangan tumani",
+      "name_uz_cyrl": "Наманган тумани",
+      "name_ru": "Наманганский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 115,
+    "fields": {
+      "viloyat": 8,
+      "slug": "norin-tumani",
+      "soato_code": "1714216",
+      "name_uz": "Norin tumani",
+      "name_uz_cyrl": "Норин тумани",
+      "name_ru": "Нарынский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 116,
+    "fields": {
+      "viloyat": 8,
+      "slug": "pop-tumani",
+      "soato_code": "1714219",
+      "name_uz": "Pop tumani",
+      "name_uz_cyrl": "Поп тумани",
+      "name_ru": "Папский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 117,
+    "fields": {
+      "viloyat": 8,
+      "slug": "toraqorgon-tumani",
+      "soato_code": "1714224",
+      "name_uz": "To'raqo'rg'on tumani",
+      "name_uz_cyrl": "Тўрақўрғон тумани",
+      "name_ru": "Туракурганский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 118,
+    "fields": {
+      "viloyat": 8,
+      "slug": "uchqorgon-tumani",
+      "soato_code": "1714234",
+      "name_uz": "Uchqo'rg'on tumani",
+      "name_uz_cyrl": "Учқўрғон тумани",
+      "name_ru": "Учкурганский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 119,
+    "fields": {
+      "viloyat": 8,
+      "slug": "uychi-tumani",
+      "soato_code": "1714229",
+      "name_uz": "Uychi tumani",
+      "name_uz_cyrl": "Уйчи тумани",
+      "name_ru": "Уйчинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 120,
+    "fields": {
+      "viloyat": 8,
+      "slug": "yangi-namangan-tumani",
+      "soato_code": null,
+      "name_uz": "Yangi Namangan tumani",
+      "name_uz_cyrl": "Янги Наманган тумани",
+      "name_ru": "Янги Наманганский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 121,
+    "fields": {
+      "viloyat": 8,
+      "slug": "yangiqorgon-tumani",
+      "soato_code": "1714242",
+      "name_uz": "Yangiqo'rg'on tumani",
+      "name_uz_cyrl": "Янгиқўрғон тумани",
+      "name_ru": "Янгикурганский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 122,
+    "fields": {
+      "viloyat": 8,
+      "slug": "namangan-shahar",
+      "soato_code": "1714401",
+      "name_uz": "Namangan",
+      "name_uz_cyrl": "Наманган",
+      "name_ru": "Наманган",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 123,
+    "fields": {
+      "viloyat": 9,
+      "slug": "gozgon-tumani",
+      "soato_code": "1712412",
+      "name_uz": "G'ozg'on tumani",
+      "name_uz_cyrl": "Ғозғон тумани",
+      "name_ru": "Газганский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 124,
+    "fields": {
+      "viloyat": 9,
+      "slug": "karmana-tumani",
+      "soato_code": "1712234",
+      "name_uz": "Karmana tumani",
+      "name_uz_cyrl": "Кармана тумани",
+      "name_ru": "Карманинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 125,
+    "fields": {
+      "viloyat": 9,
+      "slug": "konimex-tumani",
+      "soato_code": "1712211",
+      "name_uz": "Konimex tumani",
+      "name_uz_cyrl": "Конимех тумани",
+      "name_ru": "Канимехский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 126,
+    "fields": {
+      "viloyat": 9,
+      "slug": "navbahor-tumani",
+      "soato_code": "1712230",
+      "name_uz": "Navbahor tumani",
+      "name_uz_cyrl": "Навбаҳор тумани",
+      "name_ru": "Навбахорский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 127,
+    "fields": {
+      "viloyat": 9,
+      "slug": "nurota-tumani",
+      "soato_code": "1712238",
+      "name_uz": "Nurota tumani",
+      "name_uz_cyrl": "Нурота тумани",
+      "name_ru": "Нуратинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 128,
+    "fields": {
+      "viloyat": 9,
+      "slug": "qiziltepa-tumani",
+      "soato_code": "1712216",
+      "name_uz": "Qiziltepa tumani",
+      "name_uz_cyrl": "Қизилтепа тумани",
+      "name_ru": "Кызылтепинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 129,
+    "fields": {
+      "viloyat": 9,
+      "slug": "tomdi-tumani",
+      "soato_code": "1712244",
+      "name_uz": "Tomdi tumani",
+      "name_uz_cyrl": "Томди тумани",
+      "name_ru": "Тамдынский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 130,
+    "fields": {
+      "viloyat": 9,
+      "slug": "uchquduq-tumani",
+      "soato_code": "1712248",
+      "name_uz": "Uchquduq tumani",
+      "name_uz_cyrl": "Учқудуқ тумани",
+      "name_ru": "Учкудукский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 131,
+    "fields": {
+      "viloyat": 9,
+      "slug": "xatirchi-tumani",
+      "soato_code": "1712251",
+      "name_uz": "Xatirchi tumani",
+      "name_uz_cyrl": "Хатирчи тумани",
+      "name_ru": "Хатырчинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 132,
+    "fields": {
+      "viloyat": 9,
+      "slug": "navoiy-shahar",
+      "soato_code": "1712401",
+      "name_uz": "Navoiy",
+      "name_uz_cyrl": "Навоий",
+      "name_ru": "Навои",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 133,
+    "fields": {
+      "viloyat": 9,
+      "slug": "zarafshon-shahar",
+      "soato_code": "1712408",
+      "name_uz": "Zarafshon",
+      "name_uz_cyrl": "Зарафшон",
+      "name_ru": "Заpафшан",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 134,
+    "fields": {
+      "viloyat": 10,
+      "slug": "chiroqchi-tumani",
+      "soato_code": "1710242",
+      "name_uz": "Chiroqchi tumani",
+      "name_uz_cyrl": "Чироқчи тумани",
+      "name_ru": "Чиракчинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 135,
+    "fields": {
+      "viloyat": 10,
+      "slug": "dehqonobod-tumani",
+      "soato_code": "1710212",
+      "name_uz": "Dehqonobod tumani",
+      "name_uz_cyrl": "Деҳқонобод тумани",
+      "name_ru": "Дехканабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 136,
+    "fields": {
+      "viloyat": 10,
+      "slug": "guzor-tumani",
+      "soato_code": "1710207",
+      "name_uz": "G'uzor tumani",
+      "name_uz_cyrl": "Ғузор тумани",
+      "name_ru": "Гузарский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 137,
+    "fields": {
+      "viloyat": 10,
+      "slug": "kasbi-tumani",
+      "soato_code": "1710237",
+      "name_uz": "Kasbi tumani",
+      "name_uz_cyrl": "Касби тумани",
+      "name_ru": "Касбинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 138,
+    "fields": {
+      "viloyat": 10,
+      "slug": "kitob-tumani",
+      "soato_code": "1710232",
+      "name_uz": "Kitob tumani",
+      "name_uz_cyrl": "Китоб тумани",
+      "name_ru": "Китабский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 139,
+    "fields": {
+      "viloyat": 10,
+      "slug": "kokdala-tumani",
+      "soato_code": "1710240",
+      "name_uz": "Ko'kdala tumani",
+      "name_uz_cyrl": "Кўкдала тумани",
+      "name_ru": "Кукдалинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 140,
+    "fields": {
+      "viloyat": 10,
+      "slug": "koson-tumani",
+      "soato_code": "1710229",
+      "name_uz": "Koson tumani",
+      "name_uz_cyrl": "Косон тумани",
+      "name_ru": "Касанский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 141,
+    "fields": {
+      "viloyat": 10,
+      "slug": "mirishkor-tumani",
+      "soato_code": "1710233",
+      "name_uz": "Mirishkor tumani",
+      "name_uz_cyrl": "Миришкор тумани",
+      "name_ru": "Миришкорский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 142,
+    "fields": {
+      "viloyat": 10,
+      "slug": "muborak-tumani",
+      "soato_code": "1710234",
+      "name_uz": "Muborak tumani",
+      "name_uz_cyrl": "Муборак тумани",
+      "name_ru": "Мубарекский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 143,
+    "fields": {
+      "viloyat": 10,
+      "slug": "nishon-tumani",
+      "soato_code": "1710235",
+      "name_uz": "Nishon tumani",
+      "name_uz_cyrl": "Нишон тумани",
+      "name_ru": "Нишанский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 144,
+    "fields": {
+      "viloyat": 10,
+      "slug": "qamashi-tumani",
+      "soato_code": "1710220",
+      "name_uz": "Qamashi tumani",
+      "name_uz_cyrl": "Қамаши тумани",
+      "name_ru": "Камашинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 145,
+    "fields": {
+      "viloyat": 10,
+      "slug": "qarshi-tumani",
+      "soato_code": "1710224",
+      "name_uz": "Qarshi tumani",
+      "name_uz_cyrl": "Қарши тумани",
+      "name_ru": "Каршинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 146,
+    "fields": {
+      "viloyat": 10,
+      "slug": "shahrisabz-tumani",
+      "soato_code": "1710245",
+      "name_uz": "Shahrisabz tumani",
+      "name_uz_cyrl": "Шаҳрисабз тумани",
+      "name_ru": "Шахрисабзский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 147,
+    "fields": {
+      "viloyat": 10,
+      "slug": "yakkabog-tumani",
+      "soato_code": "1710250",
+      "name_uz": "Yakkabog' tumani",
+      "name_uz_cyrl": "Яккабоғ тумани",
+      "name_ru": "Яккабагский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 148,
+    "fields": {
+      "viloyat": 10,
+      "slug": "qarshi-shahar",
+      "soato_code": "1710401",
+      "name_uz": "Qarshi",
+      "name_uz_cyrl": "Қарши",
+      "name_ru": "Карши",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 149,
+    "fields": {
+      "viloyat": 10,
+      "slug": "shahrisabz-shahar",
+      "soato_code": "1710405",
+      "name_uz": "Shahrisabz",
+      "name_uz_cyrl": "Шаҳрисабз",
+      "name_ru": "Шахрисабз",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 150,
+    "fields": {
+      "viloyat": 11,
+      "slug": "bulungur-tumani",
+      "soato_code": "1718206",
+      "name_uz": "Bulung'ur tumani",
+      "name_uz_cyrl": "Булунғур тумани",
+      "name_ru": "Булунгурский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 151,
+    "fields": {
+      "viloyat": 11,
+      "slug": "ishtixon-tumani",
+      "soato_code": "1718212",
+      "name_uz": "Ishtixon tumani",
+      "name_uz_cyrl": "Иштихон тумани",
+      "name_ru": "Иштыханский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 152,
+    "fields": {
+      "viloyat": 11,
+      "slug": "jomboy-tumani",
+      "soato_code": "1718209",
+      "name_uz": "Jomboy tumani",
+      "name_uz_cyrl": "Жомбой тумани",
+      "name_ru": "Джамбайский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 153,
+    "fields": {
+      "viloyat": 11,
+      "slug": "kattaqorgon-tumani",
+      "soato_code": "1718215",
+      "name_uz": "Kattaqo'rg'on tumani",
+      "name_uz_cyrl": "Каттақўрғон тумани",
+      "name_ru": "Каттакурганский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 154,
+    "fields": {
+      "viloyat": 11,
+      "slug": "narpay-tumani",
+      "soato_code": "1718218",
+      "name_uz": "Narpay tumani",
+      "name_uz_cyrl": "Нарпай тумани",
+      "name_ru": "Нарпайский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 155,
+    "fields": {
+      "viloyat": 11,
+      "slug": "nurobod-tumani",
+      "soato_code": "1718235",
+      "name_uz": "Nurobod tumani",
+      "name_uz_cyrl": "Нуробод тумани",
+      "name_ru": "Нурабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 156,
+    "fields": {
+      "viloyat": 11,
+      "slug": "oqdaryo-tumani",
+      "soato_code": "1718203",
+      "name_uz": "Oqdaryo tumani",
+      "name_uz_cyrl": "Оқдарё тумани",
+      "name_ru": "Акдарьинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 157,
+    "fields": {
+      "viloyat": 11,
+      "slug": "pastdargom-tumani",
+      "soato_code": "1718227",
+      "name_uz": "Pastdarg'om tumani",
+      "name_uz_cyrl": "Пастдарғом тумани",
+      "name_ru": "Пастдаргомский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 158,
+    "fields": {
+      "viloyat": 11,
+      "slug": "paxtachi-tumani",
+      "soato_code": "1718230",
+      "name_uz": "Paxtachi tumani",
+      "name_uz_cyrl": "Пахтачи тумани",
+      "name_ru": "Пахтачийский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 159,
+    "fields": {
+      "viloyat": 11,
+      "slug": "payariq-tumani",
+      "soato_code": "1718224",
+      "name_uz": "Payariq tumani",
+      "name_uz_cyrl": "Паяриқ тумани",
+      "name_ru": "Пайарыкский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 160,
+    "fields": {
+      "viloyat": 11,
+      "slug": "qoshrabot-tumani",
+      "soato_code": "1718216",
+      "name_uz": "Qo'shrabot tumani",
+      "name_uz_cyrl": "Қўшработ тумани",
+      "name_ru": "Кушрабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 161,
+    "fields": {
+      "viloyat": 11,
+      "slug": "samarqand-tumani",
+      "soato_code": "1718233",
+      "name_uz": "Samarqand tumani",
+      "name_uz_cyrl": "Самарқанд тумани",
+      "name_ru": "Самаркандский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 162,
+    "fields": {
+      "viloyat": 11,
+      "slug": "tayloq-tumani",
+      "soato_code": "1718238",
+      "name_uz": "Tayloq tumani",
+      "name_uz_cyrl": "Тайлоқ тумани",
+      "name_ru": "Тайлякский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 163,
+    "fields": {
+      "viloyat": 11,
+      "slug": "urgut-tumani",
+      "soato_code": "1718236",
+      "name_uz": "Urgut tumani",
+      "name_uz_cyrl": "Ургут тумани",
+      "name_ru": "Ургутский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 164,
+    "fields": {
+      "viloyat": 11,
+      "slug": "kattaqorgon-shahar",
+      "soato_code": "1718406",
+      "name_uz": "Kattaqo'rg'on",
+      "name_uz_cyrl": "Каттақўрғон",
+      "name_ru": "Каттакурган",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 165,
+    "fields": {
+      "viloyat": 11,
+      "slug": "samarqand-shahar",
+      "soato_code": "1718401",
+      "name_uz": "Samarqand",
+      "name_uz_cyrl": "Самарқанд",
+      "name_ru": "Самарканд",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 166,
+    "fields": {
+      "viloyat": 12,
+      "slug": "boyovut-tumani",
+      "soato_code": "1724212",
+      "name_uz": "Boyovut tumani",
+      "name_uz_cyrl": "Боёвут тумани",
+      "name_ru": "Баяутский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 167,
+    "fields": {
+      "viloyat": 12,
+      "slug": "guliston-tumani",
+      "soato_code": "1724220",
+      "name_uz": "Guliston tumani",
+      "name_uz_cyrl": "Гулистон тумани",
+      "name_ru": "Гулистанский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 168,
+    "fields": {
+      "viloyat": 12,
+      "slug": "mirzaobod-tumani",
+      "soato_code": "1724228",
+      "name_uz": "Mirzaobod tumani",
+      "name_uz_cyrl": "Мирзаобод тумани",
+      "name_ru": "Мирзаабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 169,
+    "fields": {
+      "viloyat": 12,
+      "slug": "oqoltin-tumani",
+      "soato_code": "1724206",
+      "name_uz": "Oqoltin tumani",
+      "name_uz_cyrl": "Оқолтин тумани",
+      "name_ru": "Акалтынский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 170,
+    "fields": {
+      "viloyat": 12,
+      "slug": "sardoba-tumani",
+      "soato_code": "1724226",
+      "name_uz": "Sardoba tumani",
+      "name_uz_cyrl": "Сардоба тумани",
+      "name_ru": "Сардобинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 171,
+    "fields": {
+      "viloyat": 12,
+      "slug": "sayxunobod-tumani",
+      "soato_code": "1724216",
+      "name_uz": "Sayxunobod tumani",
+      "name_uz_cyrl": "Сайхунобод тумани",
+      "name_ru": "Сайхунабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 172,
+    "fields": {
+      "viloyat": 12,
+      "slug": "sirdaryo-tumani",
+      "soato_code": "1724231",
+      "name_uz": "Sirdaryo tumani",
+      "name_uz_cyrl": "Сирдарё тумани",
+      "name_ru": "Сырдарьинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 173,
+    "fields": {
+      "viloyat": 12,
+      "slug": "xovos-tumani",
+      "soato_code": "1724235",
+      "name_uz": "Xovos tumani",
+      "name_uz_cyrl": "Ховос тумани",
+      "name_ru": "Хавастский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 174,
+    "fields": {
+      "viloyat": 12,
+      "slug": "baxt-shahar",
+      "soato_code": "1724414",
+      "name_uz": "Baxt",
+      "name_uz_cyrl": "Бахт шахар",
+      "name_ru": "город Бахт",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 175,
+    "fields": {
+      "viloyat": 12,
+      "slug": "guliston-shahar",
+      "soato_code": "1724401",
+      "name_uz": "Guliston",
+      "name_uz_cyrl": "Гулистон",
+      "name_ru": "Гулистан",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 176,
+    "fields": {
+      "viloyat": 12,
+      "slug": "shirin-shahar",
+      "soato_code": "1724410",
+      "name_uz": "Shirin",
+      "name_uz_cyrl": "Ширин",
+      "name_ru": "Шиpин",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 177,
+    "fields": {
+      "viloyat": 12,
+      "slug": "yangiyer-shahar",
+      "soato_code": "1724413",
+      "name_uz": "Yangiyer",
+      "name_uz_cyrl": "Янгиер",
+      "name_ru": "Янгиеp",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 178,
+    "fields": {
+      "viloyat": 13,
+      "slug": "angor-tumani",
+      "soato_code": "1722202",
+      "name_uz": "Angor tumani",
+      "name_uz_cyrl": "Ангор тумани",
+      "name_ru": "Ангорский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 179,
+    "fields": {
+      "viloyat": 13,
+      "slug": "bandixon-tumani",
+      "soato_code": "1722203",
+      "name_uz": "Bandixon tumani",
+      "name_uz_cyrl": "Бандихон тумани",
+      "name_ru": "Бандиханский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 180,
+    "fields": {
+      "viloyat": 13,
+      "slug": "boysun-tumani",
+      "soato_code": "1722204",
+      "name_uz": "Boysun tumani",
+      "name_uz_cyrl": "Бойсун тумани",
+      "name_ru": "Байсунский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 181,
+    "fields": {
+      "viloyat": 13,
+      "slug": "denov-tumani",
+      "soato_code": "1722210",
+      "name_uz": "Denov tumani",
+      "name_uz_cyrl": "Денов тумани",
+      "name_ru": "Денауский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 182,
+    "fields": {
+      "viloyat": 13,
+      "slug": "jarqorgon-tumani",
+      "soato_code": "1722212",
+      "name_uz": "Jarqo'rg'on tumani",
+      "name_uz_cyrl": "Жарқўрғон тумани",
+      "name_ru": "Джаркурганский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 183,
+    "fields": {
+      "viloyat": 13,
+      "slug": "muzrabot-tumani",
+      "soato_code": "1722207",
+      "name_uz": "Muzrabot tumani",
+      "name_uz_cyrl": "Музработ тумани",
+      "name_ru": "Музрабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 184,
+    "fields": {
+      "viloyat": 13,
+      "slug": "oltinsoy-tumani",
+      "soato_code": "1722201",
+      "name_uz": "Oltinsoy tumani",
+      "name_uz_cyrl": "Олтинсой тумани",
+      "name_ru": "Алтынсайский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 185,
+    "fields": {
+      "viloyat": 13,
+      "slug": "qiziriq-tumani",
+      "soato_code": "1722215",
+      "name_uz": "Qiziriq tumani",
+      "name_uz_cyrl": "Қизириқ тумани",
+      "name_ru": "Кизирикский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 186,
+    "fields": {
+      "viloyat": 13,
+      "slug": "qumqorgon-tumani",
+      "soato_code": "1722214",
+      "name_uz": "Qumqo'rg'on tumani",
+      "name_uz_cyrl": "Қумқўрғон тумани",
+      "name_ru": "Кумкурганский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 187,
+    "fields": {
+      "viloyat": 13,
+      "slug": "sariosiyo-tumani",
+      "soato_code": "1722217",
+      "name_uz": "Sariosiyo tumani",
+      "name_uz_cyrl": "Сариосиё тумани",
+      "name_ru": "Сариасийский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 188,
+    "fields": {
+      "viloyat": 13,
+      "slug": "sherobod-tumani",
+      "soato_code": "1722223",
+      "name_uz": "Sherobod tumani",
+      "name_uz_cyrl": "Шеробод тумани",
+      "name_ru": "Шерабадский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 189,
+    "fields": {
+      "viloyat": 13,
+      "slug": "shorchi-tumani",
+      "soato_code": "1722226",
+      "name_uz": "Sho'rchi tumani",
+      "name_uz_cyrl": "Шўрчи тумани",
+      "name_ru": "Шурчинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 190,
+    "fields": {
+      "viloyat": 13,
+      "slug": "termiz-tumani",
+      "soato_code": "1722220",
+      "name_uz": "Termiz tumani",
+      "name_uz_cyrl": "Термиз тумани",
+      "name_ru": "Термезский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 191,
+    "fields": {
+      "viloyat": 13,
+      "slug": "uzun-tumani",
+      "soato_code": "1722221",
+      "name_uz": "Uzun tumani",
+      "name_uz_cyrl": "Узун тумани",
+      "name_ru": "Узунский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 192,
+    "fields": {
+      "viloyat": 13,
+      "slug": "termiz-shahar",
+      "soato_code": "1722401",
+      "name_uz": "Termiz",
+      "name_uz_cyrl": "Термиз",
+      "name_ru": "Термез",
+      "turi": "shahar"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 193,
+    "fields": {
+      "viloyat": 14,
+      "slug": "amudaryo-tumani",
+      "soato_code": "1735204",
+      "name_uz": "Amudaryo tumani",
+      "name_uz_cyrl": "Амударё тумани",
+      "name_ru": "Амударьинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 194,
+    "fields": {
+      "viloyat": 14,
+      "slug": "beruniy-tumani",
+      "soato_code": "1735207",
+      "name_uz": "Beruniy tumani",
+      "name_uz_cyrl": "Беруний тумани",
+      "name_ru": "Берунийский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 195,
+    "fields": {
+      "viloyat": 14,
+      "slug": "bozatov-tumani",
+      "soato_code": "1735209",
+      "name_uz": "Bo'zatov tumani",
+      "name_uz_cyrl": "Бўзатов тумани",
+      "name_ru": "Бузатовский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 196,
+    "fields": {
+      "viloyat": 14,
+      "slug": "chimboy-tumani",
+      "soato_code": "1735240",
+      "name_uz": "Chimboy tumani",
+      "name_uz_cyrl": "Чимбой тумани",
+      "name_ru": "Чимбайский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 197,
+    "fields": {
+      "viloyat": 14,
+      "slug": "ellikqala-tumani",
+      "soato_code": "1735250",
+      "name_uz": "Ellikqal'a tumani",
+      "name_uz_cyrl": "Элликқалъа тумани",
+      "name_ru": "Элликкалинский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 198,
+    "fields": {
+      "viloyat": 14,
+      "slug": "kegeyli-tumani",
+      "soato_code": "1735212",
+      "name_uz": "Kegeyli tumani",
+      "name_uz_cyrl": "Кегейли тумани",
+      "name_ru": "Кегейлийский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 199,
+    "fields": {
+      "viloyat": 14,
+      "slug": "moynoq-tumani",
+      "soato_code": "1735222",
+      "name_uz": "Mo'ynoq tumani",
+      "name_uz_cyrl": "Мўйноқ тумани",
+      "name_ru": "Муйнакский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 200,
+    "fields": {
+      "viloyat": 14,
+      "slug": "nukus-tumani",
+      "soato_code": "1735225",
+      "name_uz": "Nukus tumani",
+      "name_uz_cyrl": "Нукус тумани",
+      "name_ru": "Нукусский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 201,
+    "fields": {
+      "viloyat": 14,
+      "slug": "qanlikol-tumani",
+      "soato_code": "1735218",
+      "name_uz": "Qanliko'l tumani",
+      "name_uz_cyrl": "Қанликўл тумани",
+      "name_ru": "Канлыкульский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 202,
+    "fields": {
+      "viloyat": 14,
+      "slug": "qongirot-tumani",
+      "soato_code": "1735215",
+      "name_uz": "Qo'ng'irot tumani",
+      "name_uz_cyrl": "Қўнғирот тумани",
+      "name_ru": "Кунградский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 203,
+    "fields": {
+      "viloyat": 14,
+      "slug": "qoraozak-tumani",
+      "soato_code": "1735211",
+      "name_uz": "Qorao'zak tumani",
+      "name_uz_cyrl": "Қораўзак тумани",
+      "name_ru": "Караузякский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 204,
+    "fields": {
+      "viloyat": 14,
+      "slug": "shumanay-tumani",
+      "soato_code": "1735243",
+      "name_uz": "Shumanay tumani",
+      "name_uz_cyrl": "Шуманай тумани",
+      "name_ru": "Шуманайский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 205,
+    "fields": {
+      "viloyat": 14,
+      "slug": "taxiatosh-tumani",
+      "soato_code": "1735228",
+      "name_uz": "Taxiatosh tumani",
+      "name_uz_cyrl": "Тахиатош тумани",
+      "name_ru": "Тахиаташский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 206,
+    "fields": {
+      "viloyat": 14,
+      "slug": "taxtakopir-tumani",
+      "soato_code": "1735230",
+      "name_uz": "Taxtako'pir tumani",
+      "name_uz_cyrl": "Тахтакўпир тумани",
+      "name_ru": "Тахтакупырский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 207,
+    "fields": {
+      "viloyat": 14,
+      "slug": "tortkol-tumani",
+      "soato_code": "1735233",
+      "name_uz": "To'rtko'l tumani",
+      "name_uz_cyrl": "Тўрткўл тумани",
+      "name_ru": "Турткульский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 208,
+    "fields": {
+      "viloyat": 14,
+      "slug": "xojayli-tumani",
+      "soato_code": "1735236",
+      "name_uz": "Xo'jayli tumani",
+      "name_uz_cyrl": "Хўжайли тумани",
+      "name_ru": "Ходжейлийский район",
+      "turi": "tuman"
+    }
+  },
+  {
+    "model": "geo.tuman",
+    "pk": 209,
+    "fields": {
+      "viloyat": 14,
+      "slug": "nukus-shahar",
+      "soato_code": "1735401",
+      "name_uz": "Nukus",
+      "name_uz_cyrl": "Нукус",
+      "name_ru": "Нукус",
+      "turi": "shahar"
+    }
+  }
+]
