@@ -56,6 +56,10 @@ yaratadi, va statik fayllarni yig'adi.
 - Swagger hujjatlar: http://localhost:8080/api/docs/
 - Admin panel: http://localhost:8080/admin/ (`.env`dagi DJANGO_SUPERUSER_* bilan kiring)
 
+8080 serverda band bo'lsa, `.env`dagi `WEB_PORT`ni boshqa bo'sh portga
+o'zgartiring (masalan `WEB_PORT=8081`) -- konteyner ichida app hamon
+8000da ishlaydi, faqat hostga chiqadigan port o'zgaradi.
+
 ## Docker'siz lokal ishga tushirish (SQLite bilan)
 
 ```bash
